@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const DB_PATH = path.join(__dirname, "db.json");
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json({ limit: "6mb" })); // avatar rasmlari base64 formatda yuborilgani uchun limitni oshiramiz

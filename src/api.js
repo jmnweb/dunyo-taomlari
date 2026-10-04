@@ -4,7 +4,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: import.meta.env.VITE_API_URL || "http://localhost:5000",
 });
 
 // Har bir so'rovga, agar localStorage'da token bo'lsa, uni avtomatik qo'shib yuboramiz.
