@@ -1,0 +1,5616 @@
+{
+  "users": [],
+  "reviews": [],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Osh (Plov)",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Plov.jpg?width=700",
+      "country": "Uzbekistan",
+      "flag": "🇺🇿",
+      "category": "Asosiy taom",
+      "description": "Guruch, qo'y go'shti, sabzi va piyozdan tayyorlanadigan O'zbekistonning milliy taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=4ZGQkrjrJGI",
+      "ingredients": [
+        {
+          "name": "Guruch",
+          "amount": "1 kg",
+          "grams": 1000
+        },
+        {
+          "name": "Qo'y go'shti",
+          "amount": "700 g",
+          "grams": 700
+        },
+        {
+          "name": "Sabzi",
+          "amount": "1 kg",
+          "grams": 1000
+        },
+        {
+          "name": "Piyoz",
+          "amount": "3 dona",
+          "grams": 450
+        },
+        {
+          "name": "O'simlik yog'i",
+          "amount": "300 ml",
+          "grams": 300
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "2 bosh",
+          "grams": 80
+        },
+        {
+          "name": "Zira",
+          "amount": "1 osh qoshiq",
+          "grams": 7
+        },
+        {
+          "name": "Tuz",
+          "amount": "ta'mga qarab",
+          "grams": 5
+        }
+      ],
+      "instructions": [
+        "Qozonda yog'ni qizdiring va piyozni oltin rangga aylanguncha qovuring.",
+        "Go'shtni qo'shib, qizarguncha qovuring.",
+        "Sabzini qo'shib, 10 daqiqa qovuring.",
+        "Suv quyib, zira va tuz soling, 40 daqiqa qayting.",
+        "Yuvilgan guruchni tekis yoying va suv qo'shing.",
+        "Sarimsoqni qadab qo'ying va qopqoqni yopib, 30 daqiqa dam bering.",
+        "Aralashtirib, issiq holda dasturxonga tortilsin."
+      ],
+      "cookingTime": "90 daqiqa",
+      "servings": 6,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Плов",
+          "category": "Основное блюдо",
+          "description": "Национальное блюдо Узбекистана из риса, баранины, моркови и лука.",
+          "ingredients": [
+            {
+              "name": "Рис",
+              "amount": "1 кг"
+            },
+            {
+              "name": "Баранина",
+              "amount": "700 г"
+            },
+            {
+              "name": "Морковь",
+              "amount": "1 кг"
+            },
+            {
+              "name": "Лук",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Растительное масло",
+              "amount": "300 мл"
+            },
+            {
+              "name": "Чеснок",
+              "amount": "2 головки"
+            },
+            {
+              "name": "Зира",
+              "amount": "1 ст. л."
+            },
+            {
+              "name": "Соль",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Разогрейте масло в казане и обжарьте лук до золотистого цвета.",
+            "Добавьте мясо и обжарьте до румяной корочки.",
+            "Добавьте морковь и жарьте 10 минут.",
+            "Влейте воду, добавьте зиру и соль, тушите 40 минут.",
+            "Равномерно выложите промытый рис и добавьте воду.",
+            "Вдавите чеснок в рис, накройте крышкой и оставьте томиться 30 минут.",
+            "Хорошо перемешайте и подавайте горячим."
+          ]
+        },
+        "en": {
+          "title": "Plov (Uzbek Pilaf)",
+          "category": "Main course",
+          "description": "Uzbekistan's national dish made with rice, lamb, carrots, and onions.",
+          "ingredients": [
+            {
+              "name": "Rice",
+              "amount": "1 kg"
+            },
+            {
+              "name": "Lamb",
+              "amount": "700 g"
+            },
+            {
+              "name": "Carrots",
+              "amount": "1 kg"
+            },
+            {
+              "name": "Onions",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Vegetable oil",
+              "amount": "300 ml"
+            },
+            {
+              "name": "Garlic",
+              "amount": "2 heads"
+            },
+            {
+              "name": "Cumin",
+              "amount": "1 tbsp"
+            },
+            {
+              "name": "Salt",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Heat oil in a cauldron and fry onions until golden.",
+            "Add the meat and fry until browned.",
+            "Add carrots and fry for 10 minutes.",
+            "Add water, cumin and salt, and simmer for 40 minutes.",
+            "Spread the washed rice evenly on top and add water.",
+            "Push the garlic into the rice, cover, and let it steam for 30 minutes.",
+            "Mix well and serve hot."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 650,
+        "protein": 25,
+        "carbs": 70,
+        "fat": 30
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Somsa",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uzbek_samsa.jpg?width=700",
+      "country": "Uzbekistan",
+      "flag": "🇺🇿",
+      "category": "Non mahsulotlari",
+      "description": "Xamir ichiga go'sht yoki qovoq solib, tandirda pishiriladigan mazali pirog.",
+      "videoUrl": "https://www.youtube.com/watch?v=bP4PMI0v8WM",
+      "ingredients": [
+        {
+          "name": "Xamir",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Mol go'shti",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Piyoz",
+          "amount": "3 dona",
+          "grams": 450
+        },
+        {
+          "name": "Kunjut",
+          "amount": "2 osh qoshiq",
+          "grams": 18
+        },
+        {
+          "name": "Tuz va qalampir",
+          "amount": "ta'mga qarab",
+          "grams": 5
+        }
+      ],
+      "instructions": [
+        "Go'sht va piyozni mayda to'g'rab, ichlik tayyorlang.",
+        "Xamirdan yumaloq bo'lakchalar tayyorlang.",
+        "Ichlikni xamir ichiga solib, uchburchak shaklda yoping.",
+        "Tandir yoki duxovkada 220°C da 30 daqiqa pishiring.",
+        "Ustiga kunjut sepib xizmat qiling."
+      ],
+      "cookingTime": "60 daqiqa",
+      "servings": 8,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Самса",
+          "category": "Выпечка",
+          "description": "Слоёная выпечка с начинкой из мяса или тыквы, приготовленная в тандыре.",
+          "ingredients": [
+            {
+              "name": "Тесто",
+              "amount": "500 г"
+            },
+            {
+              "name": "Говядина",
+              "amount": "400 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Кунжут",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Соль и перец",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Мелко нарежьте мясо и лук для начинки.",
+            "Сформируйте из теста небольшие круглые кусочки.",
+            "Наполните начинкой и сложите в форме треугольника.",
+            "Выпекайте в тандыре или духовке при 220°C 30 минут.",
+            "Посыпьте кунжутом и подавайте."
+          ]
+        },
+        "en": {
+          "title": "Somsa (Baked Meat Pastry)",
+          "category": "Baked goods",
+          "description": "Savory pastry filled with meat or pumpkin and baked in a tandoor oven.",
+          "ingredients": [
+            {
+              "name": "Dough",
+              "amount": "500 g"
+            },
+            {
+              "name": "Beef",
+              "amount": "400 g"
+            },
+            {
+              "name": "Onions",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Sesame seeds",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Salt and pepper",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Finely chop the meat and onion to make the filling.",
+            "Shape the dough into small round pieces.",
+            "Fill with the mixture and fold into a triangle shape.",
+            "Bake in a tandoor or oven at 220°C (430°F) for 30 minutes.",
+            "Sprinkle with sesame seeds and serve."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 320,
+        "protein": 12,
+        "carbs": 28,
+        "fat": 18
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lag'mon",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagman.jpg?width=700",
+      "country": "Uzbekistan",
+      "flag": "🇺🇿",
+      "category": "Sho'rva",
+      "description": "Qo'lda cho'zilgan uzun makaron va sabzavotlar bilan tayyorlanadigan taom.",
+      "videoUrl": "https://www.youtube.com/watch?v=fop4yEywUGc",
+      "ingredients": [
+        {
+          "name": "Lag'mon xamiri",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Mol go'shti",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Bulg'or qalampiri",
+          "amount": "2 dona",
+          "grams": 300
+        },
+        {
+          "name": "Pomidor",
+          "amount": "3 dona",
+          "grams": 360
+        },
+        {
+          "name": "Sabzi",
+          "amount": "1 dona",
+          "grams": 80
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "3 bo'lak",
+          "grams": 15
+        }
+      ],
+      "instructions": [
+        "Xamirni cho'zib, ingichka tolalarga ajrating va qaynatib oling.",
+        "Go'shtni mayda bo'laklarga kesib qovuring.",
+        "Sabzavotlarni qo'shib qovurma tayyorlang.",
+        "Suv qo'shib 20 daqiqa qayting.",
+        "Tayyor lag'monni likobga solib, ustidan qovurmani quying."
+      ],
+      "cookingTime": "70 daqiqa",
+      "servings": 5,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Лагман",
+          "category": "Суп",
+          "description": "Блюдо из длинной вытянутой вручную лапши с овощами.",
+          "ingredients": [
+            {
+              "name": "Тесто для лагмана",
+              "amount": "500 г"
+            },
+            {
+              "name": "Говядина",
+              "amount": "300 г"
+            },
+            {
+              "name": "Болгарский перец",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Помидоры",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Морковь",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Чеснок",
+              "amount": "3 зубчика"
+            }
+          ],
+          "instructions": [
+            "Вытяните тесто в тонкие полоски и отварите.",
+            "Нарежьте мясо небольшими кусочками и обжарьте.",
+            "Добавьте овощи и приготовьте поджарку.",
+            "Добавьте воду и тушите 20 минут.",
+            "Выложите лапшу в тарелку и полейте поджаркой."
+          ]
+        },
+        "en": {
+          "title": "Lagman (Hand-Pulled Noodle Soup)",
+          "category": "Soup",
+          "description": "A dish made with long hand-pulled noodles and vegetables.",
+          "ingredients": [
+            {
+              "name": "Noodle dough",
+              "amount": "500 g"
+            },
+            {
+              "name": "Beef",
+              "amount": "300 g"
+            },
+            {
+              "name": "Bell pepper",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Tomatoes",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Carrot",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Garlic",
+              "amount": "3 cloves"
+            }
+          ],
+          "instructions": [
+            "Stretch the dough into thin strands and boil.",
+            "Cut the meat into small pieces and fry.",
+            "Add the vegetables and prepare a fry.",
+            "Add water and simmer for 20 minutes.",
+            "Place the noodles in a bowl and pour the fry over them."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 450,
+        "protein": 22,
+        "carbs": 55,
+        "fat": 15
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Margherita Pizza",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Margherita_Pizza.jpg?width=700",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "category": "Fast food",
+      "description": "Pomidor sousi, mozzarella pishlog'i va reyhon bilan tayyorlanadigan klassik italyan pitsasi.",
+      "ingredients": [
+        {
+          "name": "Pitsa xamiri",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Pomidor sousi",
+          "amount": "150 ml",
+          "grams": 150
+        },
+        {
+          "name": "Mozzarella pishloq",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Reyhon barglari",
+          "amount": "10 dona",
+          "grams": 5
+        },
+        {
+          "name": "Zaytun yog'i",
+          "amount": "2 osh qoshiq",
+          "grams": 28
+        }
+      ],
+      "instructions": [
+        "Xamirni yupqa yoyib oling.",
+        "Ustiga pomidor sousini surting.",
+        "Mozzarella pishlog'ini teng taqsimlang.",
+        "220°C duxovkada 12-15 daqiqa pishiring.",
+        "Reyhon va zaytun yog'i bilan bezating."
+      ],
+      "cookingTime": "35 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Пицца Маргарита",
+          "category": "Фастфуд",
+          "description": "Классическая итальянская пицца с томатным соусом, моцареллой и базиликом.",
+          "ingredients": [
+            {
+              "name": "Тесто для пиццы",
+              "amount": "300 г"
+            },
+            {
+              "name": "Томатный соус",
+              "amount": "150 мл"
+            },
+            {
+              "name": "Сыр моцарелла",
+              "amount": "200 г"
+            },
+            {
+              "name": "Листья базилика",
+              "amount": "10 шт"
+            },
+            {
+              "name": "Оливковое масло",
+              "amount": "2 ст. л."
+            }
+          ],
+          "instructions": [
+            "Тонко раскатайте тесто.",
+            "Смажьте томатным соусом.",
+            "Равномерно распределите моцареллу.",
+            "Выпекайте при 220°C 12–15 минут.",
+            "Украсьте базиликом и оливковым маслом."
+          ]
+        },
+        "en": {
+          "title": "Margherita Pizza",
+          "category": "Fast food",
+          "description": "A classic Italian pizza made with tomato sauce, mozzarella cheese, and basil.",
+          "ingredients": [
+            {
+              "name": "Pizza dough",
+              "amount": "300 g"
+            },
+            {
+              "name": "Tomato sauce",
+              "amount": "150 ml"
+            },
+            {
+              "name": "Mozzarella cheese",
+              "amount": "200 g"
+            },
+            {
+              "name": "Basil leaves",
+              "amount": "10 pcs"
+            },
+            {
+              "name": "Olive oil",
+              "amount": "2 tbsp"
+            }
+          ],
+          "instructions": [
+            "Roll out the dough thinly.",
+            "Spread the tomato sauce on top.",
+            "Evenly distribute the mozzarella.",
+            "Bake at 220°C (430°F) for 12–15 minutes.",
+            "Garnish with basil and olive oil."
+          ]
+        }
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=_jOMIdietUQ",
+      "popular": true,
+      "nutrition": {
+        "calories": 285,
+        "protein": 12,
+        "carbs": 36,
+        "fat": 10
+      },
+      "dietTags": [
+        "vegetarian",
+        "halal"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Spagetti Karbonara",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carbonara.jpg?width=700",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "category": "Asosiy taom",
+      "description": "Tuxum, panjabekon va parmesan bilan tayyorlanadigan mashhur italyan pastasi.",
+      "videoUrl": "https://www.youtube.com/watch?v=AvO8UPbIH30",
+      "ingredients": [
+        {
+          "name": "Spagetti",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Bekon",
+          "amount": "150 g",
+          "grams": 150
+        },
+        {
+          "name": "Tuxum sarig'i",
+          "amount": "4 dona",
+          "grams": 68
+        },
+        {
+          "name": "Parmesan pishloq",
+          "amount": "100 g",
+          "grams": 100
+        },
+        {
+          "name": "Qora qalampir",
+          "amount": "ta'mga qarab",
+          "grams": 2
+        }
+      ],
+      "instructions": [
+        "Spagettini tuzlangan suvda qaynatib oling.",
+        "Bekonni qarsillaguncha qovuring.",
+        "Tuxum sarig'i va parmesanni aralashtiring.",
+        "Issiq spagettiga bekon va tuxum aralashmasini qo'shing.",
+        "Tezda aralashtirib, qalampir sepib xizmat qiling."
+      ],
+      "cookingTime": "25 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Спагетти Карбонара",
+          "category": "Основное блюдо",
+          "description": "Известная итальянская паста с яйцом, беконом и пармезаном.",
+          "ingredients": [
+            {
+              "name": "Спагетти",
+              "amount": "400 г"
+            },
+            {
+              "name": "Бекон",
+              "amount": "150 г"
+            },
+            {
+              "name": "Яичные желтки",
+              "amount": "4 шт"
+            },
+            {
+              "name": "Сыр пармезан",
+              "amount": "100 г"
+            },
+            {
+              "name": "Чёрный перец",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Отварите спагетти в подсоленной воде.",
+            "Обжарьте бекон до хрустящей корочки.",
+            "Смешайте желтки с пармезаном.",
+            "Добавьте бекон и яичную смесь в горячие спагетти.",
+            "Быстро перемешайте, посыпьте перцем и подавайте."
+          ]
+        },
+        "en": {
+          "title": "Spaghetti Carbonara",
+          "category": "Main course",
+          "description": "A famous Italian pasta made with egg, pancetta, and parmesan.",
+          "ingredients": [
+            {
+              "name": "Spaghetti",
+              "amount": "400 g"
+            },
+            {
+              "name": "Bacon",
+              "amount": "150 g"
+            },
+            {
+              "name": "Egg yolks",
+              "amount": "4 pcs"
+            },
+            {
+              "name": "Parmesan cheese",
+              "amount": "100 g"
+            },
+            {
+              "name": "Black pepper",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Boil the spaghetti in salted water.",
+            "Fry the bacon until crispy.",
+            "Mix the egg yolks with the parmesan.",
+            "Add the bacon and egg mixture to the hot spaghetti.",
+            "Toss quickly, sprinkle with pepper, and serve."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 520,
+        "protein": 22,
+        "carbs": 55,
+        "fat": 22
+      },
+      "dietTags": []
+    },
+    {
+      "id": 6,
+      "title": "Risotto ai Funghi",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Risotto-dish.jpg?width=700",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "category": "Asosiy taom",
+      "description": "Qo'ziqorin va guruch bilan tayyorlanadigan krem-mazali italyan taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=MYoqzRPi_l0",
+      "ingredients": [
+        {
+          "name": "Arborio guruch",
+          "amount": "350 g",
+          "grams": 350
+        },
+        {
+          "name": "Qo'ziqorin",
+          "amount": "250 g",
+          "grams": 250
+        },
+        {
+          "name": "Go'sht bulyoni",
+          "amount": "1 l",
+          "grams": 1000
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Parmesan pishloq",
+          "amount": "80 g",
+          "grams": 80
+        },
+        {
+          "name": "Oq vino",
+          "amount": "100 ml",
+          "grams": 100
+        }
+      ],
+      "instructions": [
+        "Piyoz va qo'ziqorinni yog'da qovuring.",
+        "Guruchni qo'shib 2 daqiqa qovuring.",
+        "Vino qo'shib bug'lantiring.",
+        "Bulyonni asta-sekin qo'shib, doim aralashtirib pishiring.",
+        "Parmesan qo'shib, kremsimon holatga keltiring."
+      ],
+      "cookingTime": "40 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Ризотто с грибами",
+          "category": "Основное блюдо",
+          "description": "Кремовое итальянское блюдо из риса с грибами.",
+          "ingredients": [
+            {
+              "name": "Рис арборио",
+              "amount": "350 г"
+            },
+            {
+              "name": "Грибы",
+              "amount": "250 г"
+            },
+            {
+              "name": "Мясной бульон",
+              "amount": "1 л"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Сыр пармезан",
+              "amount": "80 г"
+            },
+            {
+              "name": "Белое вино",
+              "amount": "100 мл"
+            }
+          ],
+          "instructions": [
+            "Обжарьте лук и грибы в масле.",
+            "Добавьте рис и жарьте 2 минуты.",
+            "Влейте вино и дайте ему выпариться.",
+            "Постепенно добавляйте бульон, постоянно помешивая.",
+            "Вмешайте пармезан до кремовой консистенции."
+          ]
+        },
+        "en": {
+          "title": "Mushroom Risotto",
+          "category": "Main course",
+          "description": "A creamy Italian dish made with mushrooms and rice.",
+          "ingredients": [
+            {
+              "name": "Arborio rice",
+              "amount": "350 g"
+            },
+            {
+              "name": "Mushrooms",
+              "amount": "250 g"
+            },
+            {
+              "name": "Beef broth",
+              "amount": "1 L"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Parmesan cheese",
+              "amount": "80 g"
+            },
+            {
+              "name": "White wine",
+              "amount": "100 ml"
+            }
+          ],
+          "instructions": [
+            "Fry the onion and mushrooms in oil.",
+            "Add the rice and fry for 2 minutes.",
+            "Add the wine and let it evaporate.",
+            "Gradually add the broth, stirring constantly.",
+            "Stir in the parmesan until creamy."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 380,
+        "protein": 10,
+        "carbs": 55,
+        "fat": 12
+      },
+      "dietTags": [
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sushi Rolls",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_platter.jpg?width=700",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "category": "Fast food",
+      "description": "Guruch, nori va baliq bilan tayyorlanadigan yaponcha sushi rulonlari.",
+      "videoUrl": "https://www.youtube.com/watch?v=K5wdfUWckK4",
+      "ingredients": [
+        {
+          "name": "Sushi guruchi",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Nori varag'i",
+          "amount": "6 dona",
+          "grams": 18
+        },
+        {
+          "name": "Losos baliq",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Bodring",
+          "amount": "1 dona",
+          "grams": 200
+        },
+        {
+          "name": "Sirka",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Soya sousi",
+          "amount": "xizmat uchun",
+          "grams": 15
+        }
+      ],
+      "instructions": [
+        "Guruchni qaynatib, sirka bilan aralashtiring.",
+        "Nori varag'ini bambuk to'shakka yoying.",
+        "Ustiga guruch, baliq va bodringni joylashtiring.",
+        "Mahkam o'rab, bo'laklarga kesing.",
+        "Soya sousi bilan xizmat qiling."
+      ],
+      "cookingTime": "45 daqiqa",
+      "servings": 3,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Суши-роллы",
+          "category": "Фастфуд",
+          "description": "Японские суши-роллы из риса, нори и рыбы.",
+          "ingredients": [
+            {
+              "name": "Рис для суши",
+              "amount": "400 г"
+            },
+            {
+              "name": "Листы нори",
+              "amount": "6 шт"
+            },
+            {
+              "name": "Лосось",
+              "amount": "200 г"
+            },
+            {
+              "name": "Огурец",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Рисовый уксус",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Соевый соус",
+              "amount": "для подачи"
+            }
+          ],
+          "instructions": [
+            "Отварите рис и смешайте с уксусом.",
+            "Разложите лист нори на бамбуковом коврике.",
+            "Выложите сверху рис, рыбу и огурец.",
+            "Плотно сверните и нарежьте на кусочки.",
+            "Подавайте с соевым соусом."
+          ]
+        },
+        "en": {
+          "title": "Sushi Rolls",
+          "category": "Fast food",
+          "description": "Japanese sushi rolls made with rice, nori, and fish.",
+          "ingredients": [
+            {
+              "name": "Sushi rice",
+              "amount": "400 g"
+            },
+            {
+              "name": "Nori sheets",
+              "amount": "6 pcs"
+            },
+            {
+              "name": "Salmon",
+              "amount": "200 g"
+            },
+            {
+              "name": "Cucumber",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Rice vinegar",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Soy sauce",
+              "amount": "for serving"
+            }
+          ],
+          "instructions": [
+            "Boil the rice and mix it with vinegar.",
+            "Lay the nori sheet on a bamboo mat.",
+            "Layer the rice, fish, and cucumber on top.",
+            "Roll tightly and cut into pieces.",
+            "Serve with soy sauce."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 350,
+        "protein": 15,
+        "carbs": 55,
+        "fat": 8
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Shoyu Ramen",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoyu_Ramen.jpg?width=700",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "category": "Sho'rva",
+      "description": "Soya sousli bulyon, tuxum va tovuq go'shti bilan tayyorlanadigan issiq sho'rva.",
+      "videoUrl": "https://www.youtube.com/watch?v=eDSwdEDKYds",
+      "ingredients": [
+        {
+          "name": "Ramen makaroni",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Tovuq go'shti",
+          "amount": "250 g",
+          "grams": 250
+        },
+        {
+          "name": "Tovuq bulyoni",
+          "amount": "1.2 l",
+          "grams": 1200
+        },
+        {
+          "name": "Soya sousi",
+          "amount": "60 ml",
+          "grams": 60
+        },
+        {
+          "name": "Qaynatilgan tuxum",
+          "amount": "2 dona",
+          "grams": 100
+        },
+        {
+          "name": "Yashil piyoz",
+          "amount": "2 tup",
+          "grams": 20
+        }
+      ],
+      "instructions": [
+        "Bulyonni soya sousi bilan qaynating.",
+        "Tovuq go'shtini alohida qovurib, bulyonga qo'shing.",
+        "Makaronni qaynatib, likobga soling.",
+        "Ustidan bulyon quying va tuxum, piyoz bilan bezating."
+      ],
+      "cookingTime": "50 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Рамен Сёю",
+          "category": "Суп",
+          "description": "Горячий суп на бульоне с соевым соусом, яйцом и курицей.",
+          "ingredients": [
+            {
+              "name": "Лапша рамен",
+              "amount": "300 г"
+            },
+            {
+              "name": "Курица",
+              "amount": "250 г"
+            },
+            {
+              "name": "Куриный бульон",
+              "amount": "1.2 л"
+            },
+            {
+              "name": "Соевый соус",
+              "amount": "60 мл"
+            },
+            {
+              "name": "Варёные яйца",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Зелёный лук",
+              "amount": "2 стебля"
+            }
+          ],
+          "instructions": [
+            "Доведите бульон с соевым соусом до кипения.",
+            "Обжарьте курицу отдельно и добавьте в бульон.",
+            "Отварите лапшу и выложите в тарелку.",
+            "Залейте лапшу бульоном и украсьте яйцом и луком."
+          ]
+        },
+        "en": {
+          "title": "Shoyu Ramen",
+          "category": "Soup",
+          "description": "A hot soup made with soy sauce broth, egg, and chicken.",
+          "ingredients": [
+            {
+              "name": "Ramen noodles",
+              "amount": "300 g"
+            },
+            {
+              "name": "Chicken",
+              "amount": "250 g"
+            },
+            {
+              "name": "Chicken broth",
+              "amount": "1.2 L"
+            },
+            {
+              "name": "Soy sauce",
+              "amount": "60 ml"
+            },
+            {
+              "name": "Boiled eggs",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Green onion",
+              "amount": "2 stalks"
+            }
+          ],
+          "instructions": [
+            "Bring the broth to a boil with soy sauce.",
+            "Fry the chicken separately and add it to the broth.",
+            "Boil the noodles and place them in a bowl.",
+            "Pour the broth over the noodles and top with egg and green onion."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 480,
+        "protein": 25,
+        "carbs": 55,
+        "fat": 15
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Bibimbap",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bibimbap.jpg?width=700",
+      "country": "Korea",
+      "flag": "🇰🇷",
+      "category": "Asosiy taom",
+      "description": "Guruch, sabzavotlar, tuxum va achchiq gochujang sousi bilan tayyorlanadigan koreys taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=6KCWzRfFyr4",
+      "ingredients": [
+        {
+          "name": "Guruch",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Ispanoq",
+          "amount": "150 g",
+          "grams": 150
+        },
+        {
+          "name": "Sabzi",
+          "amount": "1 dona",
+          "grams": 80
+        },
+        {
+          "name": "Tuxum",
+          "amount": "4 dona",
+          "grams": 200
+        },
+        {
+          "name": "Gochujang sousi",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Kunjut yog'i",
+          "amount": "2 osh qoshiq",
+          "grams": 28
+        }
+      ],
+      "instructions": [
+        "Guruchni qaynatib tayyorlang.",
+        "Sabzavotlarni alohida-alohida qovuring.",
+        "Tuxumni qovurib, sarig'i suyuq qoldiring.",
+        "Guruch ustiga sabzavotlar va tuxumni tartibli joylashtiring.",
+        "Gochujang sousi bilan xizmat qiling va aralashtirib yeyilsin."
+      ],
+      "cookingTime": "40 daqiqa",
+      "servings": 3,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Пибимпаб",
+          "category": "Основное блюдо",
+          "description": "Корейское блюдо из риса, овощей, яйца и острого соуса гочуджанг.",
+          "ingredients": [
+            {
+              "name": "Рис",
+              "amount": "400 г"
+            },
+            {
+              "name": "Шпинат",
+              "amount": "150 г"
+            },
+            {
+              "name": "Морковь",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Яйца",
+              "amount": "4 шт"
+            },
+            {
+              "name": "Соус гочуджанг",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Кунжутное масло",
+              "amount": "2 ст. л."
+            }
+          ],
+          "instructions": [
+            "Отварите рис.",
+            "Обжарьте каждый овощ отдельно.",
+            "Обжарьте яйца, оставив желток жидким.",
+            "Аккуратно выложите овощи и яйцо поверх риса.",
+            "Подавайте с соусом гочуджанг и перемешайте перед едой."
+          ]
+        },
+        "en": {
+          "title": "Bibimbap",
+          "category": "Main course",
+          "description": "A Korean dish made with rice, vegetables, egg, and spicy gochujang sauce.",
+          "ingredients": [
+            {
+              "name": "Rice",
+              "amount": "400 g"
+            },
+            {
+              "name": "Spinach",
+              "amount": "150 g"
+            },
+            {
+              "name": "Carrot",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Eggs",
+              "amount": "4 pcs"
+            },
+            {
+              "name": "Gochujang sauce",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Sesame oil",
+              "amount": "2 tbsp"
+            }
+          ],
+          "instructions": [
+            "Cook the rice.",
+            "Fry each vegetable separately.",
+            "Fry the eggs, keeping the yolks runny.",
+            "Arrange the vegetables and egg neatly on top of the rice.",
+            "Serve with gochujang sauce and mix before eating."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 550,
+        "protein": 22,
+        "carbs": 70,
+        "fat": 18
+      },
+      "dietTags": [
+        "vegetarian",
+        "halal"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Kimchi Jjigae",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimchi_jjigae_with_tofu.jpg?width=700",
+      "country": "Korea",
+      "flag": "🇰🇷",
+      "category": "Sho'rva",
+      "description": "Achchiq kimchi va cho'chqa go'shti bilan tayyorlanadigan issiq koreys sho'rvasi.",
+      "videoUrl": "https://www.youtube.com/watch?v=rJgb92JWMCE",
+      "ingredients": [
+        {
+          "name": "Kimchi",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Cho'chqa go'shti",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Tofu",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Yashil piyoz",
+          "amount": "2 tup",
+          "grams": 20
+        },
+        {
+          "name": "Gochugaru (qalampir kukuni)",
+          "amount": "1 osh qoshiq",
+          "grams": 7
+        }
+      ],
+      "instructions": [
+        "Go'shtni qovurib, kimchi qo'shing.",
+        "Suv quyib 15 daqiqa qayting.",
+        "Tofuni bo'laklab qo'shing.",
+        "Gochugaru va piyoz bilan ta'mini yakunlang."
+      ],
+      "cookingTime": "35 daqiqa",
+      "servings": 3,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Кимчи Тиге",
+          "category": "Суп",
+          "description": "Горячий корейский суп с острым кимчи и свининой.",
+          "ingredients": [
+            {
+              "name": "Кимчи",
+              "amount": "300 г"
+            },
+            {
+              "name": "Свинина",
+              "amount": "200 г"
+            },
+            {
+              "name": "Тофу",
+              "amount": "200 г"
+            },
+            {
+              "name": "Зелёный лук",
+              "amount": "2 стебля"
+            },
+            {
+              "name": "Кочугару (перечные хлопья)",
+              "amount": "1 ст. л."
+            }
+          ],
+          "instructions": [
+            "Обжарьте свинину и добавьте кимчи.",
+            "Добавьте воду и тушите 15 минут.",
+            "Добавьте тофу кубиками.",
+            "Завершите блюдо кочугару и зелёным луком."
+          ]
+        },
+        "en": {
+          "title": "Kimchi Jjigae",
+          "category": "Soup",
+          "description": "A hot Korean soup made with spicy kimchi and pork.",
+          "ingredients": [
+            {
+              "name": "Kimchi",
+              "amount": "300 g"
+            },
+            {
+              "name": "Pork",
+              "amount": "200 g"
+            },
+            {
+              "name": "Tofu",
+              "amount": "200 g"
+            },
+            {
+              "name": "Green onion",
+              "amount": "2 stalks"
+            },
+            {
+              "name": "Gochugaru (chili flakes)",
+              "amount": "1 tbsp"
+            }
+          ],
+          "instructions": [
+            "Fry the pork and add the kimchi.",
+            "Add water and simmer for 15 minutes.",
+            "Add the tofu in cubes.",
+            "Finish with gochugaru and green onion."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 320,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 20
+      },
+      "dietTags": [
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Chicken Tacos",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tacos_2.jpg?width=700",
+      "country": "Mexico",
+      "flag": "🇲🇽",
+      "category": "Fast food",
+      "description": "Tovuq go'shti, sabzavotlar va achchiq sous bilan to'ldirilgan meksika taco'lari.",
+      "videoUrl": "https://www.youtube.com/watch?v=CsCz-MMVtWE",
+      "ingredients": [
+        {
+          "name": "Tortilla",
+          "amount": "8 dona",
+          "grams": 240
+        },
+        {
+          "name": "Tovuq go'shti",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Pomidor",
+          "amount": "2 dona",
+          "grams": 240
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Limon",
+          "amount": "1 dona",
+          "grams": 100
+        },
+        {
+          "name": "Achchiq sous",
+          "amount": "ta'mga qarab",
+          "grams": 10
+        }
+      ],
+      "instructions": [
+        "Tovuq go'shtini ziravorlar bilan qovuring.",
+        "Sabzavotlarni mayda to'g'rang.",
+        "Tortillani isitib, go'sht va sabzavotlarni joylashtiring.",
+        "Limon sharbati va sous bilan bezating."
+      ],
+      "cookingTime": "30 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Тако с курицей",
+          "category": "Фастфуд",
+          "description": "Мексиканские тако с курицей, овощами и острым соусом.",
+          "ingredients": [
+            {
+              "name": "Тортильи",
+              "amount": "8 шт"
+            },
+            {
+              "name": "Курица",
+              "amount": "400 г"
+            },
+            {
+              "name": "Помидоры",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Лайм",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Острый соус",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Обжарьте курицу со специями.",
+            "Мелко нарежьте овощи.",
+            "Разогрейте тортильи и добавьте курицу и овощи.",
+            "Украсьте соком лайма и соусом."
+          ]
+        },
+        "en": {
+          "title": "Chicken Tacos",
+          "category": "Fast food",
+          "description": "Mexican tacos filled with chicken, vegetables, and spicy sauce.",
+          "ingredients": [
+            {
+              "name": "Tortillas",
+              "amount": "8 pcs"
+            },
+            {
+              "name": "Chicken",
+              "amount": "400 g"
+            },
+            {
+              "name": "Tomatoes",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Lime",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Hot sauce",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Fry the chicken with spices.",
+            "Finely chop the vegetables.",
+            "Warm the tortillas and add the chicken and vegetables.",
+            "Garnish with lime juice and sauce."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 380,
+        "protein": 25,
+        "carbs": 30,
+        "fat": 16
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Guacamole",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guacamole.jpg?width=700",
+      "country": "Mexico",
+      "flag": "🇲🇽",
+      "category": "Salat",
+      "description": "Avokado, limon va achchiq qalampirdan tayyorlanadigan meksika sousi.",
+      "videoUrl": "https://www.youtube.com/watch?v=xD3OdwtNZ5Y",
+      "ingredients": [
+        {
+          "name": "Avokado",
+          "amount": "3 dona",
+          "grams": 600
+        },
+        {
+          "name": "Limon sharbati",
+          "amount": "2 osh qoshiq",
+          "grams": 30
+        },
+        {
+          "name": "Pomidor",
+          "amount": "1 dona",
+          "grams": 120
+        },
+        {
+          "name": "Piyoz",
+          "amount": "0.5 dona",
+          "grams": 75
+        },
+        {
+          "name": "Achchiq qalampir",
+          "amount": "1 dona",
+          "grams": 15
+        },
+        {
+          "name": "Tuz",
+          "amount": "ta'mga qarab",
+          "grams": 3
+        }
+      ],
+      "instructions": [
+        "Avokadoni ezib olib, limon sharbati qo'shing.",
+        "Mayda to'g'ralgan pomidor va piyozni qo'shing.",
+        "Achchiq qalampir va tuz bilan ta'mini sozlang.",
+        "Yaxshilab aralashtirib, darrov xizmat qiling."
+      ],
+      "cookingTime": "15 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Гуакамоле",
+          "category": "Салат",
+          "description": "Мексиканский соус из авокадо, лайма и острого перца.",
+          "ingredients": [
+            {
+              "name": "Авокадо",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Сок лайма",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Помидор",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "0.5 шт"
+            },
+            {
+              "name": "Острый перец",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Соль",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Разомните авокадо и добавьте сок лайма.",
+            "Добавьте мелко нарезанные помидор и лук.",
+            "Добавьте острый перец и соль по вкусу.",
+            "Хорошо перемешайте и подавайте сразу."
+          ]
+        },
+        "en": {
+          "title": "Guacamole",
+          "category": "Salad",
+          "description": "A Mexican dip made with avocado, lime, and chili pepper.",
+          "ingredients": [
+            {
+              "name": "Avocados",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Lime juice",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Tomato",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Onion",
+              "amount": "0.5 pc"
+            },
+            {
+              "name": "Chili pepper",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Salt",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Mash the avocado and add lime juice.",
+            "Add finely chopped tomato and onion.",
+            "Adjust the taste with chili pepper and salt.",
+            "Mix well and serve immediately."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 180,
+        "protein": 2,
+        "carbs": 10,
+        "fat": 16
+      },
+      "dietTags": [
+        "vegetarian",
+        "vegan",
+        "glutenFree",
+        "halal"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Chicken Biryani",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Biryani.jpg?width=700",
+      "country": "India",
+      "flag": "🇮🇳",
+      "category": "Asosiy taom",
+      "description": "Guruch, tovuq go'shti va hind ziravorlari bilan qatlama qilib pishiriladigan mazali taom.",
+      "ingredients": [
+        {
+          "name": "Basmati guruch",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Tovuq go'shti",
+          "amount": "600 g",
+          "grams": 600
+        },
+        {
+          "name": "Qatiq",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Piyoz",
+          "amount": "3 dona",
+          "grams": 450
+        },
+        {
+          "name": "Biryani ziravorlari",
+          "amount": "2 osh qoshiq",
+          "grams": 14
+        },
+        {
+          "name": "Shafron",
+          "amount": "bir chimdim",
+          "grams": 0.5
+        }
+      ],
+      "instructions": [
+        "Tovuqni qatiq va ziravorlarda 1 soat marinadlang.",
+        "Piyozni oltin rangga qovuring.",
+        "Guruchni yarim pishirib oling.",
+        "Qozonda go'sht va guruchni qatlab joylashtiring.",
+        "Yopiq qopqoq ostida 30 daqiqa mo''tadil olovda dimlang."
+      ],
+      "cookingTime": "100 daqiqa",
+      "servings": 6,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Куриный бирьяни",
+          "category": "Основное блюдо",
+          "description": "Ароматное блюдо из слоёв риса, курицы и индийских специй.",
+          "ingredients": [
+            {
+              "name": "Рис басмати",
+              "amount": "500 г"
+            },
+            {
+              "name": "Курица",
+              "amount": "600 г"
+            },
+            {
+              "name": "Йогурт",
+              "amount": "200 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Специи бирьяни",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Шафран",
+              "amount": "щепотка"
+            }
+          ],
+          "instructions": [
+            "Замаринуйте курицу в йогурте и специях на 1 час.",
+            "Обжарьте лук до золотистого цвета.",
+            "Отварите рис до полуготовности.",
+            "Выложите в казане слоями мясо и рис.",
+            "Накройте крышкой и томите на слабом огне 30 минут."
+          ]
+        },
+        "en": {
+          "title": "Chicken Biryani",
+          "category": "Main course",
+          "description": "A flavorful dish made by layering rice, chicken, and Indian spices.",
+          "ingredients": [
+            {
+              "name": "Basmati rice",
+              "amount": "500 g"
+            },
+            {
+              "name": "Chicken",
+              "amount": "600 g"
+            },
+            {
+              "name": "Yogurt",
+              "amount": "200 g"
+            },
+            {
+              "name": "Onions",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Biryani spice mix",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Saffron",
+              "amount": "a pinch"
+            }
+          ],
+          "instructions": [
+            "Marinate the chicken in yogurt and spices for 1 hour.",
+            "Fry the onions until golden.",
+            "Par-cook the rice halfway.",
+            "Layer the meat and rice in a pot.",
+            "Cover and steam over low heat for 30 minutes."
+          ]
+        }
+      },
+      "videoUrl": "https://www.youtube.com/watch?v=-cLDrBc4Of4",
+      "popular": true,
+      "nutrition": {
+        "calories": 600,
+        "protein": 28,
+        "carbs": 70,
+        "fat": 22
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Butter Chicken",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_makhani.jpg?width=700",
+      "country": "India",
+      "flag": "🇮🇳",
+      "category": "Asosiy taom",
+      "description": "Krem-pomidor sousida pishirilgan yumshoq tovuq go'shti — hind oshxonasining mashhur taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=XBRMJ2NFkMk",
+      "ingredients": [
+        {
+          "name": "Tovuq go'shti",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Pomidor pyuresi",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Qaymoq",
+          "amount": "150 ml",
+          "grams": 150
+        },
+        {
+          "name": "Sariyog'",
+          "amount": "50 g",
+          "grams": 50
+        },
+        {
+          "name": "Garam masala",
+          "amount": "1 osh qoshiq",
+          "grams": 7
+        },
+        {
+          "name": "Sarimsoq-zanjabil pastasi",
+          "amount": "2 osh qoshiq",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Tovuqni ziravorlar bilan qovuring.",
+        "Sariyog'da sarimsoq-zanjabil pastasini qovuring.",
+        "Pomidor pyuresini qo'shib 10 daqiqa qayting.",
+        "Qaymoq va garam masala qo'shing.",
+        "Tovuqni sousga solib 10 daqiqa dimlang."
+      ],
+      "cookingTime": "50 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Баттер Чикен",
+          "category": "Основное блюдо",
+          "description": "Нежная курица в сливочно-томатном соусе — известное индийское блюдо.",
+          "ingredients": [
+            {
+              "name": "Курица",
+              "amount": "500 г"
+            },
+            {
+              "name": "Томатное пюре",
+              "amount": "300 г"
+            },
+            {
+              "name": "Сливки",
+              "amount": "150 мл"
+            },
+            {
+              "name": "Сливочное масло",
+              "amount": "50 г"
+            },
+            {
+              "name": "Гарам масала",
+              "amount": "1 ст. л."
+            },
+            {
+              "name": "Паста чеснок-имбирь",
+              "amount": "2 ст. л."
+            }
+          ],
+          "instructions": [
+            "Обжарьте курицу со специями.",
+            "Обжарьте пасту чеснок-имбирь в сливочном масле.",
+            "Добавьте томатное пюре и тушите 10 минут.",
+            "Добавьте сливки и гарам масалу.",
+            "Добавьте курицу в соус и тушите 10 минут."
+          ]
+        },
+        "en": {
+          "title": "Butter Chicken",
+          "category": "Main course",
+          "description": "Tender chicken cooked in a creamy tomato sauce — a famous Indian dish.",
+          "ingredients": [
+            {
+              "name": "Chicken",
+              "amount": "500 g"
+            },
+            {
+              "name": "Tomato puree",
+              "amount": "300 g"
+            },
+            {
+              "name": "Cream",
+              "amount": "150 ml"
+            },
+            {
+              "name": "Butter",
+              "amount": "50 g"
+            },
+            {
+              "name": "Garam masala",
+              "amount": "1 tbsp"
+            },
+            {
+              "name": "Garlic-ginger paste",
+              "amount": "2 tbsp"
+            }
+          ],
+          "instructions": [
+            "Fry the chicken with spices.",
+            "Fry the garlic-ginger paste in butter.",
+            "Add the tomato puree and simmer for 10 minutes.",
+            "Add the cream and garam masala.",
+            "Add the chicken to the sauce and simmer for 10 minutes."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 480,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 32
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Adana Kebab",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kebab.JPG?width=700",
+      "country": "Turkey",
+      "flag": "🇹🇷",
+      "category": "Asosiy taom",
+      "description": "Qiyma go'sht va achchiq ziravorlar bilan tayyorlanadigan turk kebabi.",
+      "videoUrl": "https://www.youtube.com/watch?v=b3-Hp4Al5vk",
+      "ingredients": [
+        {
+          "name": "Qo'y qiymasi",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Achchiq qalampir",
+          "amount": "2 dona",
+          "grams": 30
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Petrushka",
+          "amount": "1 bog'",
+          "grams": 30
+        },
+        {
+          "name": "Achchiq qizil qalampir kukuni",
+          "amount": "1 osh qoshiq",
+          "grams": 7
+        }
+      ],
+      "instructions": [
+        "Qiymani mayda to'g'ralgan piyoz va ziravorlar bilan yo'g'iring.",
+        "Sixga cho'zib taqing.",
+        "Mangalda har tomonini 4-5 daqiqadan qovuring.",
+        "Petrushka va lavash bilan xizmat qiling."
+      ],
+      "cookingTime": "40 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Кебаб Адана",
+          "category": "Основное блюдо",
+          "description": "Турецкий кебаб из рубленого мяса с острыми специями.",
+          "ingredients": [
+            {
+              "name": "Бараний фарш",
+              "amount": "500 г"
+            },
+            {
+              "name": "Острый перец",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Петрушка",
+              "amount": "1 пучок"
+            },
+            {
+              "name": "Красный жгучий перец (молотый)",
+              "amount": "1 ст. л."
+            }
+          ],
+          "instructions": [
+            "Замесите фарш с мелко нарезанным луком и специями.",
+            "Насадите на шампуры, вытянув в длину.",
+            "Жарьте на мангале по 4–5 минут с каждой стороны.",
+            "Подавайте с петрушкой и лавашом."
+          ]
+        },
+        "en": {
+          "title": "Adana Kebab",
+          "category": "Main course",
+          "description": "A Turkish kebab made with ground meat and spicy seasonings.",
+          "ingredients": [
+            {
+              "name": "Ground lamb",
+              "amount": "500 g"
+            },
+            {
+              "name": "Chili peppers",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Parsley",
+              "amount": "1 bunch"
+            },
+            {
+              "name": "Red chili powder",
+              "amount": "1 tbsp"
+            }
+          ],
+          "instructions": [
+            "Knead the ground meat with finely chopped onion and spices.",
+            "Shape it onto skewers.",
+            "Grill for 4–5 minutes on each side.",
+            "Serve with parsley and flatbread."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 420,
+        "protein": 28,
+        "carbs": 8,
+        "fat": 30
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Baklava",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baklava.jpg?width=700",
+      "country": "Turkey",
+      "flag": "🇹🇷",
+      "category": "Shirinlik",
+      "description": "Yong'oq va asal siropi bilan tayyorlanadigan qatlama xamirli turk shirinligi.",
+      "videoUrl": "https://www.youtube.com/watch?v=vrnH5UCMqLY",
+      "ingredients": [
+        {
+          "name": "Yupqa xamir (fillo)",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Yong'oq",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Sariyog'",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Asal",
+          "amount": "250 ml",
+          "grams": 350
+        },
+        {
+          "name": "Shakar",
+          "amount": "150 g",
+          "grams": 150
+        }
+      ],
+      "instructions": [
+        "Xamir qatlamlarini sariyog' bilan surtib joylashtiring.",
+        "Har necha qatlamda maydalangan yong'oq soling.",
+        "Romb shaklida kesib, 180°C da 35 daqiqa pishiring.",
+        "Issiqligida asal siropi bilan sug'oring."
+      ],
+      "cookingTime": "80 daqiqa",
+      "servings": 10,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Пахлава",
+          "category": "Десерт",
+          "description": "Слоёная турецкая выпечка с грецкими орехами и медовым сиропом.",
+          "ingredients": [
+            {
+              "name": "Тесто фило",
+              "amount": "500 г"
+            },
+            {
+              "name": "Грецкие орехи",
+              "amount": "300 г"
+            },
+            {
+              "name": "Сливочное масло",
+              "amount": "200 г"
+            },
+            {
+              "name": "Мёд",
+              "amount": "250 мл"
+            },
+            {
+              "name": "Сахар",
+              "amount": "150 г"
+            }
+          ],
+          "instructions": [
+            "Выкладывайте слои теста фило, смазывая каждый слой маслом.",
+            "Через каждые несколько слоёв посыпайте измельчёнными орехами.",
+            "Нарежьте ромбами и выпекайте при 180°C 35 минут.",
+            "Полейте горячим медовым сиропом сразу после выпечки."
+          ]
+        },
+        "en": {
+          "title": "Baklava",
+          "category": "Dessert",
+          "description": "A layered Turkish pastry made with walnuts and honey syrup.",
+          "ingredients": [
+            {
+              "name": "Phyllo dough",
+              "amount": "500 g"
+            },
+            {
+              "name": "Walnuts",
+              "amount": "300 g"
+            },
+            {
+              "name": "Butter",
+              "amount": "200 g"
+            },
+            {
+              "name": "Honey",
+              "amount": "250 ml"
+            },
+            {
+              "name": "Sugar",
+              "amount": "150 g"
+            }
+          ],
+          "instructions": [
+            "Layer the phyllo dough, brushing each sheet with butter.",
+            "Sprinkle chopped walnuts every few layers.",
+            "Cut into diamond shapes and bake at 180°C (350°F) for 35 minutes.",
+            "Drizzle with honey syrup while still hot."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 250,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 14
+      },
+      "dietTags": [
+        "vegetarian",
+        "halal"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Croissant",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Croissant.jpg?width=700",
+      "country": "France",
+      "flag": "🇫🇷",
+      "category": "Non mahsulotlari",
+      "description": "Qatlama xamirdan tayyorlanadigan mashhur frantsuz bulochkasi.",
+      "videoUrl": "https://www.youtube.com/watch?v=hJxaVD6eAtc",
+      "ingredients": [
+        {
+          "name": "Un",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Sariyog'",
+          "amount": "250 g",
+          "grams": 250
+        },
+        {
+          "name": "Sut",
+          "amount": "150 ml",
+          "grams": 150
+        },
+        {
+          "name": "Xamirturush",
+          "amount": "10 g",
+          "grams": 10
+        },
+        {
+          "name": "Shakar",
+          "amount": "50 g",
+          "grams": 50
+        }
+      ],
+      "instructions": [
+        "Xamirni tayyorlab, 1 soat dam bering.",
+        "Sariyog'ni xamir ichiga qatlab soling.",
+        "Xamirni bir necha marta yoyib-buklang.",
+        "Hilol shaklida kesib o'rang.",
+        "200°C da 18 daqiqa oltin rangga pishiring."
+      ],
+      "cookingTime": "180 daqiqa",
+      "servings": 8,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Круассан",
+          "category": "Выпечка",
+          "description": "Известная французская выпечка из слоёного теста.",
+          "ingredients": [
+            {
+              "name": "Мука",
+              "amount": "500 г"
+            },
+            {
+              "name": "Сливочное масло",
+              "amount": "250 г"
+            },
+            {
+              "name": "Молоко",
+              "amount": "150 мл"
+            },
+            {
+              "name": "Дрожжи",
+              "amount": "10 г"
+            },
+            {
+              "name": "Сахар",
+              "amount": "50 г"
+            }
+          ],
+          "instructions": [
+            "Приготовьте тесто и дайте ему отдохнуть 1 час.",
+            "Заверните масло в тесто слоями.",
+            "Несколько раз раскатайте и сложите тесто.",
+            "Нарежьте и сверните в форме полумесяца.",
+            "Выпекайте при 200°C 18 минут до золотистого цвета."
+          ]
+        },
+        "en": {
+          "title": "Croissant",
+          "category": "Baked goods",
+          "description": "A famous French pastry made from layered dough.",
+          "ingredients": [
+            {
+              "name": "Flour",
+              "amount": "500 g"
+            },
+            {
+              "name": "Butter",
+              "amount": "250 g"
+            },
+            {
+              "name": "Milk",
+              "amount": "150 ml"
+            },
+            {
+              "name": "Yeast",
+              "amount": "10 g"
+            },
+            {
+              "name": "Sugar",
+              "amount": "50 g"
+            }
+          ],
+          "instructions": [
+            "Prepare the dough and let it rest for 1 hour.",
+            "Fold the butter into the dough in layers.",
+            "Roll and fold the dough several times.",
+            "Cut and roll into a crescent shape.",
+            "Bake at 200°C (390°F) for 18 minutes until golden."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 270,
+        "protein": 5,
+        "carbs": 26,
+        "fat": 16
+      },
+      "dietTags": [
+        "vegetarian",
+        "halal"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Ratatouille",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratatouille.jpg?width=700",
+      "country": "France",
+      "flag": "🇫🇷",
+      "category": "Salat",
+      "description": "Baqlajon, qovoqcha va pomidordan tayyorlanadigan an'anaviy frantsuz sabzavot taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=4L7IzA52Yj4",
+      "ingredients": [
+        {
+          "name": "Baqlajon",
+          "amount": "1 dona",
+          "grams": 250
+        },
+        {
+          "name": "Qovoqcha",
+          "amount": "2 dona",
+          "grams": 400
+        },
+        {
+          "name": "Pomidor",
+          "amount": "3 dona",
+          "grams": 360
+        },
+        {
+          "name": "Bulg'or qalampiri",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Zaytun yog'i",
+          "amount": "3 osh qoshiq",
+          "grams": 42
+        },
+        {
+          "name": "Timyan",
+          "amount": "1 choy qoshiq",
+          "grams": 1
+        }
+      ],
+      "instructions": [
+        "Barcha sabzavotlarni yupqa taqachalarga kesing.",
+        "Qozon tubiga pomidor sousi soling.",
+        "Sabzavotlarni navbatma-navbat aylana shaklida joylashtiring.",
+        "Zaytun yog'i va timyan sepib, 180°C da 45 daqiqa pishiring."
+      ],
+      "cookingTime": "70 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Рататуй",
+          "category": "Салат",
+          "description": "Традиционное французское овощное блюдо из баклажанов, кабачков и помидоров.",
+          "ingredients": [
+            {
+              "name": "Баклажан",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Кабачки",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Помидоры",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Болгарский перец",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Оливковое масло",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Тимьян",
+              "amount": "1 ч. л."
+            }
+          ],
+          "instructions": [
+            "Нарежьте все овощи тонкими кружочками.",
+            "Выложите томатный соус на дно формы.",
+            "Разложите овощи по кругу, чередуя.",
+            "Полейте оливковым маслом, посыпьте тимьяном и выпекайте при 180°C 45 минут."
+          ]
+        },
+        "en": {
+          "title": "Ratatouille",
+          "category": "Salad",
+          "description": "A traditional French vegetable dish made with eggplant, zucchini, and tomato.",
+          "ingredients": [
+            {
+              "name": "Eggplant",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Zucchini",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Tomatoes",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Bell pepper",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Olive oil",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Thyme",
+              "amount": "1 tsp"
+            }
+          ],
+          "instructions": [
+            "Slice all the vegetables thinly.",
+            "Spread tomato sauce on the bottom of the pot.",
+            "Arrange the vegetables in a circular pattern, alternating.",
+            "Sprinkle with olive oil and thyme, then bake at 180°C (350°F) for 45 minutes."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 20,
+        "fat": 10
+      },
+      "dietTags": [
+        "vegetarian",
+        "vegan",
+        "glutenFree",
+        "halal"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Yangzhou Fried Rice",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fried_rice_schezwan_style.jpg?width=700",
+      "country": "China",
+      "flag": "🇨🇳",
+      "category": "Asosiy taom",
+      "description": "Guruch, tuxum va turli sabzavotlar bilan qovurilgan xitoy taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=QsHLgZhkKyc",
+      "ingredients": [
+        {
+          "name": "Sovigan guruch",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Tuxum",
+          "amount": "3 dona",
+          "grams": 150
+        },
+        {
+          "name": "Krevetka",
+          "amount": "150 g",
+          "grams": 150
+        },
+        {
+          "name": "Yashil no'xat",
+          "amount": "100 g",
+          "grams": 100
+        },
+        {
+          "name": "Soya sousi",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Yashil piyoz",
+          "amount": "2 tup",
+          "grams": 20
+        }
+      ],
+      "instructions": [
+        "Tuxumni qovurib, alohida qo'yib turing.",
+        "Krevetka va sabzavotlarni qovuring.",
+        "Guruchni qo'shib baland olovda qovuring.",
+        "Tuxum va soya sousini qo'shib aralashtiring.",
+        "Yashil piyoz bilan bezating."
+      ],
+      "cookingTime": "25 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Жареный рис по-янчжоуски",
+          "category": "Основное блюдо",
+          "description": "Китайское блюдо из жареного риса с яйцом и разными овощами.",
+          "ingredients": [
+            {
+              "name": "Остывший варёный рис",
+              "amount": "500 г"
+            },
+            {
+              "name": "Яйца",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Креветки",
+              "amount": "150 г"
+            },
+            {
+              "name": "Зелёный горошек",
+              "amount": "100 г"
+            },
+            {
+              "name": "Соевый соус",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Зелёный лук",
+              "amount": "2 стебля"
+            }
+          ],
+          "instructions": [
+            "Обжарьте яйца и отложите в сторону.",
+            "Обжарьте креветки и овощи.",
+            "Добавьте рис и жарьте на сильном огне.",
+            "Добавьте яйцо и соевый соус, перемешайте.",
+            "Украсьте зелёным луком."
+          ]
+        },
+        "en": {
+          "title": "Yangzhou Fried Rice",
+          "category": "Main course",
+          "description": "A Chinese dish made by frying rice with egg and assorted vegetables.",
+          "ingredients": [
+            {
+              "name": "Cold cooked rice",
+              "amount": "500 g"
+            },
+            {
+              "name": "Eggs",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Shrimp",
+              "amount": "150 g"
+            },
+            {
+              "name": "Green peas",
+              "amount": "100 g"
+            },
+            {
+              "name": "Soy sauce",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Green onion",
+              "amount": "2 stalks"
+            }
+          ],
+          "instructions": [
+            "Scramble the eggs and set them aside.",
+            "Fry the shrimp and vegetables.",
+            "Add the rice and stir-fry over high heat.",
+            "Mix in the egg and soy sauce.",
+            "Garnish with green onion."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 450,
+        "protein": 18,
+        "carbs": 55,
+        "fat": 16
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Dumplings (Jiaozi)",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jiaozi.jpg?width=700",
+      "country": "China",
+      "flag": "🇨🇳",
+      "category": "Fast food",
+      "description": "Qiyma go'sht va sabzavot bilan to'ldirilgan bug'da pishirilgan xitoy pelmenlari.",
+      "videoUrl": "https://www.youtube.com/watch?v=tkGsB0omCoA",
+      "ingredients": [
+        {
+          "name": "Pelmen xamiri",
+          "amount": "40 dona",
+          "grams": 400
+        },
+        {
+          "name": "Cho'chqa qiymasi",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Karam",
+          "amount": "150 g",
+          "grams": 150
+        },
+        {
+          "name": "Zanjabil",
+          "amount": "1 osh qoshiq",
+          "grams": 6
+        },
+        {
+          "name": "Soya sousi",
+          "amount": "2 osh qoshiq",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Qiyma, karam va ziravorlarni aralashtiring.",
+        "Xamir doiralariga ichlik solib, burma qilib yoping.",
+        "Bug'lovichda 12 daqiqa pishiring.",
+        "Soya sousi bilan xizmat qiling."
+      ],
+      "cookingTime": "50 daqiqa",
+      "servings": 5,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Пельмени (Цзяоцзы)",
+          "category": "Фастфуд",
+          "description": "Китайские пельмени на пару с начинкой из рубленого мяса и овощей.",
+          "ingredients": [
+            {
+              "name": "Тесто для пельменей",
+              "amount": "40 шт"
+            },
+            {
+              "name": "Свиной фарш",
+              "amount": "300 г"
+            },
+            {
+              "name": "Капуста",
+              "amount": "150 г"
+            },
+            {
+              "name": "Имбирь",
+              "amount": "1 ст. л."
+            },
+            {
+              "name": "Соевый соус",
+              "amount": "2 ст. л."
+            }
+          ],
+          "instructions": [
+            "Смешайте фарш, капусту и специи.",
+            "Наполните тесто начинкой и защипните края.",
+            "Готовьте на пару 12 минут.",
+            "Подавайте с соевым соусом."
+          ]
+        },
+        "en": {
+          "title": "Dumplings (Jiaozi)",
+          "category": "Fast food",
+          "description": "Chinese steamed dumplings filled with ground meat and vegetables.",
+          "ingredients": [
+            {
+              "name": "Dumpling wrappers",
+              "amount": "40 pcs"
+            },
+            {
+              "name": "Ground pork",
+              "amount": "300 g"
+            },
+            {
+              "name": "Cabbage",
+              "amount": "150 g"
+            },
+            {
+              "name": "Ginger",
+              "amount": "1 tbsp"
+            },
+            {
+              "name": "Soy sauce",
+              "amount": "2 tbsp"
+            }
+          ],
+          "instructions": [
+            "Mix the ground meat, cabbage, and spices.",
+            "Fill the wrappers and pleat them closed.",
+            "Steam for 12 minutes.",
+            "Serve with soy sauce."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 320,
+        "protein": 15,
+        "carbs": 35,
+        "fat": 13
+      },
+      "dietTags": []
+    },
+    {
+      "id": 21,
+      "title": "Pad Thai",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pad_Thai.JPG?width=700",
+      "country": "Thailand",
+      "flag": "🇹🇭",
+      "category": "Fast food",
+      "description": "Sholg'om makaroni, krevetka va yeryong'oq bilan tayyorlanadigan tayland taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=kBBnBF3sOws",
+      "ingredients": [
+        {
+          "name": "Sholg'om makaroni",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Krevetka",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Tuxum",
+          "amount": "2 dona",
+          "grams": 100
+        },
+        {
+          "name": "Yeryong'oq",
+          "amount": "50 g",
+          "grams": 50
+        },
+        {
+          "name": "Tamarind sousi",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Limon",
+          "amount": "1 dona",
+          "grams": 100
+        }
+      ],
+      "instructions": [
+        "Makaronni iliq suvda yumshating.",
+        "Krevetka va tuxumni qovuring.",
+        "Makaronni qo'shib, tamarind sousi bilan aralashtiring.",
+        "Yeryong'oq va limon bilan bezating."
+      ],
+      "cookingTime": "30 daqiqa",
+      "servings": 3,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Пад Тай",
+          "category": "Фастфуд",
+          "description": "Тайское блюдо из рисовой лапши, креветок и арахиса.",
+          "ingredients": [
+            {
+              "name": "Рисовая лапша",
+              "amount": "300 г"
+            },
+            {
+              "name": "Креветки",
+              "amount": "200 г"
+            },
+            {
+              "name": "Яйца",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Арахис",
+              "amount": "50 г"
+            },
+            {
+              "name": "Соус тамаринд",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Лайм",
+              "amount": "1 шт"
+            }
+          ],
+          "instructions": [
+            "Замочите лапшу в тёплой воде до размягчения.",
+            "Обжарьте креветки и яйца.",
+            "Добавьте лапшу и перемешайте с соусом тамаринд.",
+            "Украсьте арахисом и лаймом."
+          ]
+        },
+        "en": {
+          "title": "Pad Thai",
+          "category": "Fast food",
+          "description": "A Thai dish made with rice noodles, shrimp, and peanuts.",
+          "ingredients": [
+            {
+              "name": "Rice noodles",
+              "amount": "300 g"
+            },
+            {
+              "name": "Shrimp",
+              "amount": "200 g"
+            },
+            {
+              "name": "Eggs",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Peanuts",
+              "amount": "50 g"
+            },
+            {
+              "name": "Tamarind sauce",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Lime",
+              "amount": "1 pc"
+            }
+          ],
+          "instructions": [
+            "Soak the noodles in warm water until soft.",
+            "Fry the shrimp and eggs.",
+            "Add the noodles and mix with tamarind sauce.",
+            "Garnish with peanuts and lime."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 430,
+        "protein": 20,
+        "carbs": 50,
+        "fat": 15
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Tom Yum Kung",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom_yum.jpg?width=700",
+      "country": "Thailand",
+      "flag": "🇹🇭",
+      "category": "Sho'rva",
+      "description": "Krevetka, limon o'ti va achchiq qalampir bilan tayyorlanadigan nordon-achchiq tayland sho'rvasi.",
+      "videoUrl": "https://www.youtube.com/watch?v=hXaaZiMgvgI",
+      "ingredients": [
+        {
+          "name": "Krevetka",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Limon o'ti",
+          "amount": "2 tup",
+          "grams": 20
+        },
+        {
+          "name": "Achchiq qalampir",
+          "amount": "3 dona",
+          "grams": 45
+        },
+        {
+          "name": "Kokos suti",
+          "amount": "200 ml",
+          "grams": 200
+        },
+        {
+          "name": "Limon sharbati",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Qo'ziqorin",
+          "amount": "100 g",
+          "grams": 100
+        }
+      ],
+      "instructions": [
+        "Suvni limon o'ti va qalampir bilan qaynating.",
+        "Qo'ziqorin va krevetkani qo'shing.",
+        "Kokos suti va limon sharbatini qo'shing.",
+        "5 daqiqa qaynatib, issiq holda xizmat qiling."
+      ],
+      "cookingTime": "30 daqiqa",
+      "servings": 3,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Том Ям Кунг",
+          "category": "Суп",
+          "description": "Кисло-острый тайский суп с креветками, лемонграссом и острым перцем.",
+          "ingredients": [
+            {
+              "name": "Креветки",
+              "amount": "300 г"
+            },
+            {
+              "name": "Лемонграсс",
+              "amount": "2 стебля"
+            },
+            {
+              "name": "Острый перец",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Кокосовое молоко",
+              "amount": "200 мл"
+            },
+            {
+              "name": "Сок лайма",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Грибы",
+              "amount": "100 г"
+            }
+          ],
+          "instructions": [
+            "Вскипятите воду с лемонграссом и острым перцем.",
+            "Добавьте грибы и креветки.",
+            "Добавьте кокосовое молоко и сок лайма.",
+            "Варите 5 минут и подавайте горячим."
+          ]
+        },
+        "en": {
+          "title": "Tom Yum Kung",
+          "category": "Soup",
+          "description": "A hot and sour Thai soup made with shrimp, lemongrass, and chili pepper.",
+          "ingredients": [
+            {
+              "name": "Shrimp",
+              "amount": "300 g"
+            },
+            {
+              "name": "Lemongrass",
+              "amount": "2 stalks"
+            },
+            {
+              "name": "Chili peppers",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Coconut milk",
+              "amount": "200 ml"
+            },
+            {
+              "name": "Lime juice",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Mushrooms",
+              "amount": "100 g"
+            }
+          ],
+          "instructions": [
+            "Boil water with lemongrass and chili pepper.",
+            "Add the mushrooms and shrimp.",
+            "Add the coconut milk and lime juice.",
+            "Simmer for 5 minutes and serve hot."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 180,
+        "protein": 18,
+        "carbs": 10,
+        "fat": 8
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Classic Cheeseburger",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheeseburger.jpg?width=700",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "category": "Fast food",
+      "description": "Mol go'shti kotleti, pishloq va yangi sabzavotlar bilan tayyorlanadigan amerika burgeri.",
+      "videoUrl": "https://www.youtube.com/watch?v=Dli2CMlGL0c",
+      "ingredients": [
+        {
+          "name": "Mol qiymasi",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Burger bulochkasi",
+          "amount": "4 dona",
+          "grams": 280
+        },
+        {
+          "name": "Chedder pishloq",
+          "amount": "4 bo'lak",
+          "grams": 100
+        },
+        {
+          "name": "Pomidor",
+          "amount": "1 dona",
+          "grams": 120
+        },
+        {
+          "name": "Salat barglari",
+          "amount": "4 dona",
+          "grams": 20
+        },
+        {
+          "name": "Ketchup va gorchitsa",
+          "amount": "ta'mga qarab",
+          "grams": 20
+        }
+      ],
+      "instructions": [
+        "Qiymadan kotletlar shakllantiring.",
+        "Skovorodada har tomonini 4 daqiqadan qovuring.",
+        "Kotlet ustiga pishloqni eritib qo'ying.",
+        "Bulochkaga sabzavot, kotlet va souslarni joylashtiring."
+      ],
+      "cookingTime": "25 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Классический чизбургер",
+          "category": "Фастфуд",
+          "description": "Американский бургер с говяжьей котлетой, сыром и свежими овощами.",
+          "ingredients": [
+            {
+              "name": "Говяжий фарш",
+              "amount": "500 г"
+            },
+            {
+              "name": "Булочки для бургера",
+              "amount": "4 шт"
+            },
+            {
+              "name": "Сыр чеддер",
+              "amount": "4 ломтика"
+            },
+            {
+              "name": "Помидор",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Листья салата",
+              "amount": "4 шт"
+            },
+            {
+              "name": "Кетчуп и горчица",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Сформируйте котлеты из фарша.",
+            "Обжаривайте на сковороде по 4 минуты с каждой стороны.",
+            "Растопите сыр поверх котлеты.",
+            "Соберите бургер с овощами, котлетой и соусами."
+          ]
+        },
+        "en": {
+          "title": "Classic Cheeseburger",
+          "category": "Fast food",
+          "description": "An American burger made with a beef patty, cheese, and fresh vegetables.",
+          "ingredients": [
+            {
+              "name": "Ground beef",
+              "amount": "500 g"
+            },
+            {
+              "name": "Burger buns",
+              "amount": "4 pcs"
+            },
+            {
+              "name": "Cheddar cheese",
+              "amount": "4 slices"
+            },
+            {
+              "name": "Tomato",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Lettuce leaves",
+              "amount": "4 pcs"
+            },
+            {
+              "name": "Ketchup and mustard",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Shape the ground beef into patties.",
+            "Fry each side for 4 minutes in a pan.",
+            "Melt the cheese on top of the patty.",
+            "Assemble the bun with vegetables, patty, and sauces."
+          ]
+        }
+      },
+      "popular": true,
+      "nutrition": {
+        "calories": 550,
+        "protein": 30,
+        "carbs": 35,
+        "fat": 30
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Fluffy Pancakes",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pancakes.jpg?width=700",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "category": "Nonushta",
+      "description": "Yumshoq va bo'shliqli amerika pankeyklari, asal siropi bilan xizmat qilinadi.",
+      "videoUrl": "https://www.youtube.com/watch?v=tPLVNKgs8Lk",
+      "ingredients": [
+        {
+          "name": "Un",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Sut",
+          "amount": "350 ml",
+          "grams": 350
+        },
+        {
+          "name": "Tuxum",
+          "amount": "2 dona",
+          "grams": 100
+        },
+        {
+          "name": "Xamirturush kukuni",
+          "amount": "1.5 choy qoshiq",
+          "grams": 7
+        },
+        {
+          "name": "Shakar",
+          "amount": "40 g",
+          "grams": 40
+        },
+        {
+          "name": "Asal siropi",
+          "amount": "xizmat uchun",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Barcha quruq masalliqlarni aralashtiring.",
+        "Sut va tuxumni qo'shib, xamir tayyorlang.",
+        "Skovorodada har tomonini oltin rangga qadar pishiring.",
+        "Asal siropi bilan issiq holda xizmat qiling."
+      ],
+      "cookingTime": "20 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Пышные американские блинчики",
+          "category": "Завтрак",
+          "description": "Мягкие и пышные американские блинчики с медовым сиропом.",
+          "ingredients": [
+            {
+              "name": "Мука",
+              "amount": "300 г"
+            },
+            {
+              "name": "Молоко",
+              "amount": "350 мл"
+            },
+            {
+              "name": "Яйца",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Разрыхлитель",
+              "amount": "1.5 ч. л."
+            },
+            {
+              "name": "Сахар",
+              "amount": "40 г"
+            },
+            {
+              "name": "Медовый сироп",
+              "amount": "для подачи"
+            }
+          ],
+          "instructions": [
+            "Смешайте все сухие ингредиенты.",
+            "Добавьте молоко и яйца, замесите тесто.",
+            "Обжаривайте на сковороде с каждой стороны до золотистого цвета.",
+            "Подавайте горячими с медовым сиропом."
+          ]
+        },
+        "en": {
+          "title": "Fluffy Pancakes",
+          "category": "Breakfast",
+          "description": "Soft and fluffy American pancakes served with honey syrup.",
+          "ingredients": [
+            {
+              "name": "Flour",
+              "amount": "300 g"
+            },
+            {
+              "name": "Milk",
+              "amount": "350 ml"
+            },
+            {
+              "name": "Eggs",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Baking powder",
+              "amount": "1.5 tsp"
+            },
+            {
+              "name": "Sugar",
+              "amount": "40 g"
+            },
+            {
+              "name": "Honey syrup",
+              "amount": "for serving"
+            }
+          ],
+          "instructions": [
+            "Mix all the dry ingredients together.",
+            "Add the milk and eggs to make the batter.",
+            "Cook each side in a pan until golden brown.",
+            "Serve hot with honey syrup."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 380,
+        "protein": 10,
+        "carbs": 55,
+        "fat": 12
+      },
+      "dietTags": [
+        "vegetarian",
+        "halal"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Paelya",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PAELLA.JPG?width=700",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "category": "Asosiy taom",
+      "description": "Ispaniyaning Valensiya shahridan kelib chiqqan, guruch, tovuq go'shti va dengiz mahsulotlari bilan tayyorlanadigan mashhur taom.",
+      "videoUrl": "https://www.youtube.com/watch?v=TwHt-pO2u5k",
+      "ingredients": [
+        {
+          "name": "Guruch",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Tovuq go'shti",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Krevetka",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Midiya",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Bulg'or qalampiri",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Pomidor",
+          "amount": "2 dona",
+          "grams": 240
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "3 bo'lak",
+          "grams": 15
+        },
+        {
+          "name": "Shafron",
+          "amount": "bir chimdim",
+          "grams": 0.5
+        },
+        {
+          "name": "Tovuq bulyoni",
+          "amount": "1 l",
+          "grams": 1000
+        }
+      ],
+      "instructions": [
+        "Tovuq go'shtini yog'da qovuring va olib qo'ying.",
+        "Piyoz, sarimsoq va bulg'or qalampirini qovuring.",
+        "Pomidor va shafronni qo'shib bir necha daqiqa qayting.",
+        "Guruchni qo'shib aralashtiring, so'ng bulyon quying.",
+        "15 daqiqa qaynatib, keyin dengiz mahsulotlari va tovuqni tepasiga joylashtiring.",
+        "Qopqoqsiz yana 10 daqiqa pishiring, tagida qatirmoq hosil bo'lguncha."
+      ],
+      "cookingTime": "60 daqiqa",
+      "servings": 5,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Паэлья",
+          "category": "Основное блюдо",
+          "description": "Знаменитое испанское блюдо из риса, курицы и морепродуктов, родом из Валенсии.",
+          "ingredients": [
+            {
+              "name": "Рис",
+              "amount": "400 г"
+            },
+            {
+              "name": "Курица",
+              "amount": "300 г"
+            },
+            {
+              "name": "Креветки",
+              "amount": "200 г"
+            },
+            {
+              "name": "Мидии",
+              "amount": "200 г"
+            },
+            {
+              "name": "Болгарский перец",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Помидоры",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Чеснок",
+              "amount": "3 зубчика"
+            },
+            {
+              "name": "Шафран",
+              "amount": "щепотка"
+            },
+            {
+              "name": "Куриный бульон",
+              "amount": "1 л"
+            }
+          ],
+          "instructions": [
+            "Обжарьте курицу в масле и отложите в сторону.",
+            "Обжарьте лук, чеснок и болгарский перец.",
+            "Добавьте помидоры и шафран, готовьте несколько минут.",
+            "Всыпьте рис, перемешайте, затем влейте бульон.",
+            "Варите 15 минут, затем выложите сверху морепродукты и курицу.",
+            "Готовьте ещё 10 минут без крышки, пока не образуется золотистая корочка снизу."
+          ]
+        },
+        "en": {
+          "title": "Paella",
+          "category": "Main course",
+          "description": "A famous Spanish dish made with rice, chicken, and seafood, originally from Valencia.",
+          "ingredients": [
+            {
+              "name": "Rice",
+              "amount": "400 g"
+            },
+            {
+              "name": "Chicken",
+              "amount": "300 g"
+            },
+            {
+              "name": "Shrimp",
+              "amount": "200 g"
+            },
+            {
+              "name": "Mussels",
+              "amount": "200 g"
+            },
+            {
+              "name": "Bell pepper",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Tomatoes",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Garlic",
+              "amount": "3 cloves"
+            },
+            {
+              "name": "Saffron",
+              "amount": "a pinch"
+            },
+            {
+              "name": "Chicken broth",
+              "amount": "1 L"
+            }
+          ],
+          "instructions": [
+            "Fry the chicken in oil and set aside.",
+            "Fry the onion, garlic, and bell pepper.",
+            "Add the tomatoes and saffron and cook for a few minutes.",
+            "Add the rice and stir, then pour in the broth.",
+            "Simmer for 15 minutes, then arrange the seafood and chicken on top.",
+            "Cook uncovered for another 10 minutes until a golden crust forms on the bottom."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 520,
+        "protein": 30,
+        "carbs": 55,
+        "fat": 18
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Giros",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyros.jpg?width=700",
+      "country": "Greece",
+      "flag": "🇬🇷",
+      "category": "Fast food",
+      "description": "Yunon lavashiga o'ralgan qovurilgan go'sht, tzatziki sousi va sabzavotlar bilan tayyorlanadigan fast-food taom.",
+      "videoUrl": "https://www.youtube.com/watch?v=6TIRITAkj60",
+      "ingredients": [
+        {
+          "name": "Pita non",
+          "amount": "4 dona",
+          "grams": 320
+        },
+        {
+          "name": "Tovuq go'shti",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Qatiq",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Bodring",
+          "amount": "1 dona",
+          "grams": 200
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "2 bo'lak",
+          "grams": 10
+        },
+        {
+          "name": "Pomidor",
+          "amount": "1 dona",
+          "grams": 120
+        },
+        {
+          "name": "Piyoz",
+          "amount": "0.5 dona",
+          "grams": 75
+        },
+        {
+          "name": "Origano",
+          "amount": "1 choy qoshiq",
+          "grams": 1
+        }
+      ],
+      "instructions": [
+        "Tovuq go'shtini origano va sarimsoq bilan marinadlab, qovuring.",
+        "Qatiq, bodring va sarimsoqdan tzatziki sousi tayyorlang.",
+        "Pita nonni isitib, ichiga go'sht joylang.",
+        "Pomidor, piyoz va tzatziki bilan bezating, o'rab xizmat qiling."
+      ],
+      "cookingTime": "40 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Гирос",
+          "category": "Фастфуд",
+          "description": "Греческий фастфуд: обжаренное мясо, завёрнутое в питу, с соусом дзадзики и овощами.",
+          "ingredients": [
+            {
+              "name": "Питы",
+              "amount": "4 шт"
+            },
+            {
+              "name": "Курица",
+              "amount": "500 г"
+            },
+            {
+              "name": "Йогурт",
+              "amount": "200 г"
+            },
+            {
+              "name": "Огурец",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Чеснок",
+              "amount": "2 зубчика"
+            },
+            {
+              "name": "Помидор",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "0.5 шт"
+            },
+            {
+              "name": "Орегано",
+              "amount": "1 ч. л."
+            }
+          ],
+          "instructions": [
+            "Замаринуйте курицу с орегано и чесноком, затем обжарьте.",
+            "Приготовьте соус дзадзики из йогурта, огурца и чеснока.",
+            "Разогрейте питы и выложите внутрь мясо.",
+            "Украсьте помидором, луком и дзадзики, заверните и подавайте."
+          ]
+        },
+        "en": {
+          "title": "Gyros",
+          "category": "Fast food",
+          "description": "Greek fast food: grilled meat wrapped in pita with tzatziki sauce and vegetables.",
+          "ingredients": [
+            {
+              "name": "Pita bread",
+              "amount": "4 pcs"
+            },
+            {
+              "name": "Chicken",
+              "amount": "500 g"
+            },
+            {
+              "name": "Yogurt",
+              "amount": "200 g"
+            },
+            {
+              "name": "Cucumber",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Garlic",
+              "amount": "2 cloves"
+            },
+            {
+              "name": "Tomato",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Onion",
+              "amount": "0.5 pc"
+            },
+            {
+              "name": "Oregano",
+              "amount": "1 tsp"
+            }
+          ],
+          "instructions": [
+            "Marinate the chicken with oregano and garlic, then grill it.",
+            "Make tzatziki sauce from yogurt, cucumber, and garlic.",
+            "Warm the pita and place the meat inside.",
+            "Garnish with tomato, onion, and tzatziki, wrap and serve."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 480,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 20
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Fo Bo",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietnamese_Pho.jpg?width=700",
+      "country": "Vietnam",
+      "flag": "🇻🇳",
+      "category": "Sho'rva",
+      "description": "Mol go'shti va guruch makaroni bilan tayyorlanadigan aromatik vyetnam sho'rvasi.",
+      "videoUrl": "https://www.youtube.com/watch?v=EpRBxau3ou0",
+      "ingredients": [
+        {
+          "name": "Guruch makaroni",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Mol go'shti",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Zanjabil",
+          "amount": "1 bo'lak",
+          "grams": 15
+        },
+        {
+          "name": "Yulduzcha anis",
+          "amount": "2 dona",
+          "grams": 2
+        },
+        {
+          "name": "Dolchin",
+          "amount": "1 dona",
+          "grams": 3
+        },
+        {
+          "name": "Soya sousi",
+          "amount": "2 osh qoshiq",
+          "grams": 30
+        },
+        {
+          "name": "Rayhon va limon",
+          "amount": "xizmat uchun",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Piyoz va zanjabilni olovda qorayguncha kuydiring, keyin suvda qaynating.",
+        "Mol suyagi va go'shtini qo'shib, ziravorlar bilan 2-3 soat qayting.",
+        "Guruch makaronini alohida qaynatib oling.",
+        "Bulyonni suzib, soya sousi bilan ta'mini sozlang.",
+        "Likobga makaron va yupqa kesilgan go'shtni solib, ustidan issiq bulyon quying.",
+        "Rayhon, limon va boshqa ko'katlar bilan xizmat qiling."
+      ],
+      "cookingTime": "180 daqiqa",
+      "servings": 4,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Фо Бо",
+          "category": "Суп",
+          "description": "Ароматный вьетнамский суп с говядиной и рисовой лапшой.",
+          "ingredients": [
+            {
+              "name": "Рисовая лапша",
+              "amount": "300 г"
+            },
+            {
+              "name": "Говядина",
+              "amount": "400 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Имбирь",
+              "amount": "1 кусок"
+            },
+            {
+              "name": "Бадьян",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Корица",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Соевый соус",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Базилик и лайм",
+              "amount": "для подачи"
+            }
+          ],
+          "instructions": [
+            "Обожгите лук и имбирь на огне, затем отварите в воде.",
+            "Добавьте говяжьи кости и мясо, варите со специями 2-3 часа.",
+            "Отдельно отварите рисовую лапшу.",
+            "Процедите бульон и приправьте соевым соусом.",
+            "Выложите лапшу и тонко нарезанное мясо в тарелку, залейте горячим бульоном.",
+            "Подавайте с базиликом, лаймом и зеленью."
+          ]
+        },
+        "en": {
+          "title": "Pho Bo",
+          "category": "Soup",
+          "description": "A fragrant Vietnamese soup made with beef and rice noodles.",
+          "ingredients": [
+            {
+              "name": "Rice noodles",
+              "amount": "300 g"
+            },
+            {
+              "name": "Beef",
+              "amount": "400 g"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Ginger",
+              "amount": "1 piece"
+            },
+            {
+              "name": "Star anise",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Cinnamon stick",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Soy sauce",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Basil and lime",
+              "amount": "for serving"
+            }
+          ],
+          "instructions": [
+            "Char the onion and ginger over a flame, then boil them in water.",
+            "Add beef bones and meat along with the spices, and simmer for 2-3 hours.",
+            "Cook the rice noodles separately.",
+            "Strain the broth and season with soy sauce.",
+            "Place the noodles and thinly sliced beef in a bowl, then pour the hot broth over them.",
+            "Serve with basil, lime, and fresh herbs."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 400,
+        "protein": 25,
+        "carbs": 50,
+        "fat": 8
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Xachapuri",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adjaruli_Khachapuri.jpg?width=700",
+      "country": "Georgia",
+      "flag": "🇬🇪",
+      "category": "Non mahsulotlari",
+      "description": "Ichiga pishloq va tuxum solingan, gruzin oshxonasining mashhur noni.",
+      "videoUrl": "https://www.youtube.com/watch?v=1sUFU204BOA",
+      "ingredients": [
+        {
+          "name": "Xamir",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Suluguni pishloq",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Tuxum",
+          "amount": "4 dona",
+          "grams": 200
+        },
+        {
+          "name": "Sariyog'",
+          "amount": "50 g",
+          "grams": 50
+        }
+      ],
+      "instructions": [
+        "Xamirni yumaloq shaklga yoying va chetlarini qayirib qayiq shaklini hosil qiling.",
+        "Ichiga maydalangan pishloqni soling.",
+        "220°C da 15 daqiqa pishiring.",
+        "Tandirdan chiqarib, o'rtasiga xom tuxum va bir bo'lak sariyog' soling.",
+        "Issiq holda, tuxumni aralashtirib xizmat qiling."
+      ],
+      "cookingTime": "50 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Хачапури",
+          "category": "Выпечка",
+          "description": "Знаменитый грузинский хлеб с начинкой из сыра и яйца.",
+          "ingredients": [
+            {
+              "name": "Тесто",
+              "amount": "500 г"
+            },
+            {
+              "name": "Сыр сулугуни",
+              "amount": "400 г"
+            },
+            {
+              "name": "Яйца",
+              "amount": "4 шт"
+            },
+            {
+              "name": "Сливочное масло",
+              "amount": "50 г"
+            }
+          ],
+          "instructions": [
+            "Раскатайте тесто в форме лодочки, приподняв края.",
+            "Наполните начинкой из тёртого сыра.",
+            "Выпекайте при 220°C 15 минут.",
+            "Достаньте из духовки и добавьте в центр сырое яйцо и кусочек масла.",
+            "Подавайте горячим, перемешав яйцо перед едой."
+          ]
+        },
+        "en": {
+          "title": "Khachapuri",
+          "category": "Baked goods",
+          "description": "A famous Georgian bread filled with cheese and egg.",
+          "ingredients": [
+            {
+              "name": "Dough",
+              "amount": "500 g"
+            },
+            {
+              "name": "Sulguni cheese",
+              "amount": "400 g"
+            },
+            {
+              "name": "Eggs",
+              "amount": "4 pcs"
+            },
+            {
+              "name": "Butter",
+              "amount": "50 g"
+            }
+          ],
+          "instructions": [
+            "Roll the dough into a boat shape, folding up the edges.",
+            "Fill it with grated cheese.",
+            "Bake at 220°C (430°F) for 15 minutes.",
+            "Remove from the oven and add a raw egg and a piece of butter in the center.",
+            "Serve hot, mixing the egg in before eating."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 450,
+        "protein": 18,
+        "carbs": 45,
+        "fat": 22
+      },
+      "dietTags": [
+        "vegetarian",
+        "halal"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Falafel",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Falafel.JPG?width=700",
+      "country": "Lebanon",
+      "flag": "🇱🇧",
+      "category": "Fast food",
+      "description": "No'xatdan tayyorlanadigan, qovurilgan livan taomi, odatda pitaga solib yeyiladi.",
+      "videoUrl": "https://www.youtube.com/watch?v=t0Z5oSulHtE",
+      "ingredients": [
+        {
+          "name": "No'xat",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "3 bo'lak",
+          "grams": 15
+        },
+        {
+          "name": "Petrushka",
+          "amount": "1 bog'",
+          "grams": 30
+        },
+        {
+          "name": "Zira",
+          "amount": "1 choy qoshiq",
+          "grams": 3
+        },
+        {
+          "name": "Un",
+          "amount": "2 osh qoshiq",
+          "grams": 16
+        },
+        {
+          "name": "Qovurish uchun yog'",
+          "amount": "zarur miqdorda",
+          "grams": 100
+        }
+      ],
+      "instructions": [
+        "No'xatni bir kechaga suvga bo'ktirib qo'ying (qaynatilmaydi).",
+        "No'xat, piyoz, sarimsoq va ko'katlarni blenderda maydalang.",
+        "Ziravor va un qo'shib, aralashtiring.",
+        "Kichik to'p shaklida shakllantirib, qizarguncha qovuring.",
+        "Pitaga solib yoki alohida xizmat qiling."
+      ],
+      "cookingTime": "40 daqiqa (bo'ktirishdan tashqari)",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Фалафель",
+          "category": "Фастфуд",
+          "description": "Жареные шарики из нута — ливанское блюдо, которое обычно подают в пите.",
+          "ingredients": [
+            {
+              "name": "Нут",
+              "amount": "400 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Чеснок",
+              "amount": "3 зубчика"
+            },
+            {
+              "name": "Петрушка",
+              "amount": "1 пучок"
+            },
+            {
+              "name": "Зира",
+              "amount": "1 ч. л."
+            },
+            {
+              "name": "Мука",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Масло для жарки",
+              "amount": "по необходимости"
+            }
+          ],
+          "instructions": [
+            "Замочите нут в воде на ночь (не отваривая).",
+            "Измельчите нут, лук, чеснок и зелень в блендере.",
+            "Добавьте специи и муку, перемешайте.",
+            "Сформируйте небольшие шарики и обжарьте до золотистого цвета.",
+            "Подавайте в пите или отдельно."
+          ]
+        },
+        "en": {
+          "title": "Falafel",
+          "category": "Fast food",
+          "description": "Fried chickpea balls — a Lebanese dish usually served in pita bread.",
+          "ingredients": [
+            {
+              "name": "Chickpeas",
+              "amount": "400 g"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Garlic",
+              "amount": "3 cloves"
+            },
+            {
+              "name": "Parsley",
+              "amount": "1 bunch"
+            },
+            {
+              "name": "Cumin",
+              "amount": "1 tsp"
+            },
+            {
+              "name": "Flour",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Oil for frying",
+              "amount": "as needed"
+            }
+          ],
+          "instructions": [
+            "Soak the chickpeas in water overnight (do not boil them).",
+            "Blend the chickpeas, onion, garlic, and herbs.",
+            "Add the spices and flour, and mix.",
+            "Shape into small balls and fry until golden brown.",
+            "Serve in pita bread or on its own."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 330,
+        "protein": 13,
+        "carbs": 35,
+        "fat": 16
+      },
+      "dietTags": [
+        "vegetarian",
+        "vegan",
+        "halal"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Shnitsel",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiener_Schnitzel.jpg?width=700",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "category": "Asosiy taom",
+      "description": "Qoplama non uni bilan qovurilgan yupqa go'sht bo'lagi — Germaniyaning mashhur taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=-C1HYo6TFDQ",
+      "ingredients": [
+        {
+          "name": "Cho'chqa yoki tovuq go'shti",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Tuxum",
+          "amount": "2 dona",
+          "grams": 100
+        },
+        {
+          "name": "Un",
+          "amount": "100 g",
+          "grams": 100
+        },
+        {
+          "name": "Non uvog'i",
+          "amount": "150 g",
+          "grams": 150
+        },
+        {
+          "name": "Limon",
+          "amount": "1 dona",
+          "grams": 100
+        },
+        {
+          "name": "Tuz va qalampir",
+          "amount": "ta'mga qarab",
+          "grams": 5
+        }
+      ],
+      "instructions": [
+        "Go'shtni yupqa qilib bolg'acha bilan uring.",
+        "Tuz va qalampir bilan ta'mini bering.",
+        "Avval unga, keyin tuxumga, so'ng non uvog'iga botirib chiqing.",
+        "Yog'da har tomonini oltin rangga qadar qovuring.",
+        "Limon bo'lagi bilan xizmat qiling."
+      ],
+      "cookingTime": "40 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Шницель",
+          "category": "Основное блюдо",
+          "description": "Тонко отбитое мясо в панировке — известное немецкое блюдо.",
+          "ingredients": [
+            {
+              "name": "Свинина или курица",
+              "amount": "500 г"
+            },
+            {
+              "name": "Яйца",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Мука",
+              "amount": "100 г"
+            },
+            {
+              "name": "Панировочные сухари",
+              "amount": "150 г"
+            },
+            {
+              "name": "Лимон",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Соль и перец",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Отбейте мясо молотком до тонкого состояния.",
+            "Приправьте солью и перцем.",
+            "Обваляйте сначала в муке, затем в яйце, затем в панировочных сухарях.",
+            "Обжарьте на масле с обеих сторон до золотистого цвета.",
+            "Подавайте с долькой лимона."
+          ]
+        },
+        "en": {
+          "title": "Schnitzel",
+          "category": "Main course",
+          "description": "Thin breaded and fried meat — a famous German dish.",
+          "ingredients": [
+            {
+              "name": "Pork or chicken",
+              "amount": "500 g"
+            },
+            {
+              "name": "Eggs",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Flour",
+              "amount": "100 g"
+            },
+            {
+              "name": "Breadcrumbs",
+              "amount": "150 g"
+            },
+            {
+              "name": "Lemon",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Salt and pepper",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Pound the meat thin with a mallet.",
+            "Season with salt and pepper.",
+            "Coat first in flour, then egg, then breadcrumbs.",
+            "Fry in oil on both sides until golden brown.",
+            "Serve with a lemon wedge."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 420,
+        "protein": 30,
+        "carbs": 25,
+        "fat": 20
+      },
+      "dietTags": []
+    },
+    {
+      "id": 31,
+      "title": "Borsch",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Borscht_with_bread.jpg?width=700",
+      "country": "Russia",
+      "flag": "🇷🇺",
+      "category": "Sho'rva",
+      "description": "Lavlagi bilan tayyorlanadigan, qizil rangli an'anaviy slavyan sho'rvasi.",
+      "videoUrl": "https://www.youtube.com/watch?v=6CXgPVw_-0g",
+      "ingredients": [
+        {
+          "name": "Lavlagi",
+          "amount": "2 dona",
+          "grams": 300
+        },
+        {
+          "name": "Karam",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Kartoshka",
+          "amount": "3 dona",
+          "grams": 450
+        },
+        {
+          "name": "Sabzi",
+          "amount": "1 dona",
+          "grams": 80
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Mol go'shti",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Pomidor pastasi",
+          "amount": "2 osh qoshiq",
+          "grams": 30
+        },
+        {
+          "name": "Qaymoq",
+          "amount": "xizmat uchun",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Go'shtni suvda qaynatib, bulyon tayyorlang.",
+        "Lavlagi va sabzini qovurib, pomidor pastasini qo'shing.",
+        "Kartoshka va karamni bulyonga solib qayting.",
+        "Qovurilgan lavlagi aralashmasini qo'shib, yana 15 daqiqa qayting.",
+        "Qaymoq bilan issiq holda xizmat qiling."
+      ],
+      "cookingTime": "90 daqiqa",
+      "servings": 6,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Борщ",
+          "category": "Суп",
+          "description": "Традиционный славянский суп ярко-красного цвета на основе свёклы.",
+          "ingredients": [
+            {
+              "name": "Свёкла",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Капуста",
+              "amount": "200 г"
+            },
+            {
+              "name": "Картофель",
+              "amount": "3 шт"
+            },
+            {
+              "name": "Морковь",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Говядина",
+              "amount": "300 г"
+            },
+            {
+              "name": "Томатная паста",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Сметана",
+              "amount": "для подачи"
+            }
+          ],
+          "instructions": [
+            "Отварите мясо в воде, чтобы получить бульон.",
+            "Обжарьте свёклу и морковь, добавьте томатную пасту.",
+            "Добавьте картофель и капусту в бульон и варите.",
+            "Добавьте обжаренную свекольную смесь и варите ещё 15 минут.",
+            "Подавайте горячим со сметаной."
+          ]
+        },
+        "en": {
+          "title": "Borscht",
+          "category": "Soup",
+          "description": "A traditional Slavic soup with a vivid red color, made with beetroot.",
+          "ingredients": [
+            {
+              "name": "Beetroot",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Cabbage",
+              "amount": "200 g"
+            },
+            {
+              "name": "Potatoes",
+              "amount": "3 pcs"
+            },
+            {
+              "name": "Carrot",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Beef",
+              "amount": "300 g"
+            },
+            {
+              "name": "Tomato paste",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Sour cream",
+              "amount": "for serving"
+            }
+          ],
+          "instructions": [
+            "Boil the meat in water to make a broth.",
+            "Fry the beetroot and carrot, then add the tomato paste.",
+            "Add the potatoes and cabbage to the broth and simmer.",
+            "Add the fried beetroot mixture and simmer for another 15 minutes.",
+            "Serve hot with sour cream."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 250,
+        "protein": 15,
+        "carbs": 25,
+        "fat": 10
+      },
+      "dietTags": [
+        "halal",
+        "glutenFree"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Brigadeyro",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brigadeiro.jpg?width=700",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "category": "Shirinlik",
+      "description": "Quyultirilgan sut va kakaodan tayyorlanadigan brazilcha shokolad sharchalari.",
+      "videoUrl": "https://www.youtube.com/watch?v=v5G1u_05BsM",
+      "ingredients": [
+        {
+          "name": "Quyultirilgan sut",
+          "amount": "1 banka (395 g)",
+          "grams": 395
+        },
+        {
+          "name": "Kakao kukuni",
+          "amount": "3 osh qoshiq",
+          "grams": 21
+        },
+        {
+          "name": "Sariyog'",
+          "amount": "1 osh qoshiq",
+          "grams": 14
+        },
+        {
+          "name": "Shokolad drajesi",
+          "amount": "bezash uchun",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Quyultirilgan sut, kakao va sariyog'ni qozonchada aralashtiring.",
+        "Doimiy aralashtirib, qalinlashguncha o'rtacha olovda qayting (8-10 daqiqa).",
+        "Sovutib, qo'l bilan kichik sharchalar shakllantiring.",
+        "Shokolad drajesiga bulg'ab xizmat qiling."
+      ],
+      "cookingTime": "30 daqiqa",
+      "servings": 6,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Бригадейро",
+          "category": "Десерт",
+          "description": "Бразильские шоколадные конфеты из сгущённого молока и какао.",
+          "ingredients": [
+            {
+              "name": "Сгущённое молоко",
+              "amount": "1 банка (395 г)"
+            },
+            {
+              "name": "Какао-порошок",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Сливочное масло",
+              "amount": "1 ст. л."
+            },
+            {
+              "name": "Шоколадная посыпка",
+              "amount": "для украшения"
+            }
+          ],
+          "instructions": [
+            "Смешайте сгущённое молоко, какао и масло в кастрюле.",
+            "Готовьте на среднем огне, постоянно помешивая, пока не загустеет (8-10 минут).",
+            "Остудите и скатайте руками в маленькие шарики.",
+            "Обваляйте в шоколадной посыпке и подавайте."
+          ]
+        },
+        "en": {
+          "title": "Brigadeiro",
+          "category": "Dessert",
+          "description": "Brazilian chocolate truffles made from condensed milk and cocoa.",
+          "ingredients": [
+            {
+              "name": "Condensed milk",
+              "amount": "1 can (395 g)"
+            },
+            {
+              "name": "Cocoa powder",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Butter",
+              "amount": "1 tbsp"
+            },
+            {
+              "name": "Chocolate sprinkles",
+              "amount": "for coating"
+            }
+          ],
+          "instructions": [
+            "Mix the condensed milk, cocoa, and butter in a saucepan.",
+            "Cook over medium heat, stirring constantly, until thickened (8-10 minutes).",
+            "Let cool, then roll into small balls by hand.",
+            "Coat in chocolate sprinkles and serve."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 220,
+        "protein": 4,
+        "carbs": 30,
+        "fat": 9
+      },
+      "dietTags": [
+        "vegetarian",
+        "glutenFree",
+        "halal"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Ispan Tortillasi",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tortilla_patatas.jpg?width=700",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "category": "Nonushta",
+      "description": "Kartoshka va tuxumdan tayyorlanadigan, Ispaniyaning eng mashhur va sodda taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=X_idvqxRD3E",
+      "ingredients": [
+        {
+          "name": "Kartoshka",
+          "amount": "800 g",
+          "grams": 800
+        },
+        {
+          "name": "Tuxum",
+          "amount": "6 dona",
+          "grams": 300
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Zaytun yog'i",
+          "amount": "200 ml",
+          "grams": 200
+        },
+        {
+          "name": "Tuz",
+          "amount": "ta'mga qarab",
+          "grams": 3
+        }
+      ],
+      "instructions": [
+        "Kartoshka va piyozni yupqa taqachalarga kesing.",
+        "Zaytun yog'ida mo''tadil olovda 20 daqiqa qovurib, yumshating.",
+        "Tuxumlarni chalib, kartoshka bilan aralashtiring.",
+        "Skovorodada har ikki tomonini 4-5 daqiqadan qovuring.",
+        "Bo'laklarga kesib, issiq yoki sovuq holda xizmat qiling."
+      ],
+      "cookingTime": "45 daqiqa",
+      "servings": 4,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Испанский тортилья",
+          "category": "Завтрак",
+          "description": "Простое и самое известное испанское блюдо из картофеля и яиц.",
+          "ingredients": [
+            {
+              "name": "Картофель",
+              "amount": "800 г"
+            },
+            {
+              "name": "Яйца",
+              "amount": "6 шт"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Оливковое масло",
+              "amount": "200 мл"
+            },
+            {
+              "name": "Соль",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Нарежьте картофель и лук тонкими кружочками.",
+            "Обжарьте на оливковом масле на среднем огне 20 минут до мягкости.",
+            "Взбейте яйца и смешайте с картофелем.",
+            "Обжарьте с обеих сторон на сковороде по 4-5 минут.",
+            "Нарежьте на кусочки и подавайте горячим или холодным."
+          ]
+        },
+        "en": {
+          "title": "Spanish Tortilla (Tortilla Española)",
+          "category": "Breakfast",
+          "description": "Spain's most famous and simple dish, made with potatoes and eggs.",
+          "ingredients": [
+            {
+              "name": "Potatoes",
+              "amount": "800 g"
+            },
+            {
+              "name": "Eggs",
+              "amount": "6 pcs"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Olive oil",
+              "amount": "200 ml"
+            },
+            {
+              "name": "Salt",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Slice the potatoes and onion thinly.",
+            "Fry in olive oil over medium heat for 20 minutes until soft.",
+            "Whisk the eggs and mix with the potatoes.",
+            "Fry on both sides in a pan for 4-5 minutes each.",
+            "Cut into wedges and serve hot or cold."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 320,
+        "protein": 12,
+        "carbs": 30,
+        "fat": 17
+      },
+      "dietTags": [
+        "vegetarian",
+        "glutenFree",
+        "halal"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Musaka",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mousakas.jpg?width=700",
+      "country": "Greece",
+      "flag": "🇬🇷",
+      "category": "Asosiy taom",
+      "description": "Baqlajon, qiyma go'sht va beshamel sousi bilan qatlab pishiriladigan yunon taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=MGQJXQGGSY4",
+      "ingredients": [
+        {
+          "name": "Baqlajon",
+          "amount": "2 dona",
+          "grams": 500
+        },
+        {
+          "name": "Qo'y qiymasi",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Pomidor pyuresi",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Sut",
+          "amount": "500 ml",
+          "grams": 500
+        },
+        {
+          "name": "Un",
+          "amount": "50 g",
+          "grams": 50
+        },
+        {
+          "name": "Sariyog'",
+          "amount": "50 g",
+          "grams": 50
+        },
+        {
+          "name": "Parmesan pishloq",
+          "amount": "100 g",
+          "grams": 100
+        }
+      ],
+      "instructions": [
+        "Baqlajonni taqachalarga kesib, tuzlab 20 daqiqa dam bering, so'ng qovuring.",
+        "Qiymani piyoz va pomidor pyuresi bilan qovurib, sous tayyorlang.",
+        "Sariyog', un va sutdan beshamel sousi tayyorlang.",
+        "Idishga baqlajon, go'sht sousi va beshamelni qatlab joylang.",
+        "180°C da 45 daqiqa pishiring, pishloq bilan bezating."
+      ],
+      "cookingTime": "100 daqiqa",
+      "servings": 6,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Мусака",
+          "category": "Основное блюдо",
+          "description": "Греческое блюдо со слоями баклажанов, мясного фарша и соуса бешамель.",
+          "ingredients": [
+            {
+              "name": "Баклажаны",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Бараний фарш",
+              "amount": "500 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Томатное пюре",
+              "amount": "300 г"
+            },
+            {
+              "name": "Молоко",
+              "amount": "500 мл"
+            },
+            {
+              "name": "Мука",
+              "amount": "50 г"
+            },
+            {
+              "name": "Сливочное масло",
+              "amount": "50 г"
+            },
+            {
+              "name": "Сыр пармезан",
+              "amount": "100 г"
+            }
+          ],
+          "instructions": [
+            "Нарежьте баклажаны кружочками, посолите и оставьте на 20 минут, затем обжарьте.",
+            "Обжарьте фарш с луком и томатным пюре для соуса.",
+            "Приготовьте соус бешамель из масла, муки и молока.",
+            "Выложите в форму слоями баклажаны, мясной соус и бешамель.",
+            "Запекайте при 180°C 45 минут, украсьте сыром."
+          ]
+        },
+        "en": {
+          "title": "Moussaka",
+          "category": "Main course",
+          "description": "A Greek dish layered with eggplant, ground meat, and béchamel sauce.",
+          "ingredients": [
+            {
+              "name": "Eggplants",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Ground lamb",
+              "amount": "500 g"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Tomato puree",
+              "amount": "300 g"
+            },
+            {
+              "name": "Milk",
+              "amount": "500 ml"
+            },
+            {
+              "name": "Flour",
+              "amount": "50 g"
+            },
+            {
+              "name": "Butter",
+              "amount": "50 g"
+            },
+            {
+              "name": "Parmesan cheese",
+              "amount": "100 g"
+            }
+          ],
+          "instructions": [
+            "Slice the eggplants, salt them and let rest 20 minutes, then fry.",
+            "Fry the ground meat with onion and tomato puree to make the sauce.",
+            "Make a béchamel sauce from butter, flour, and milk.",
+            "Layer the eggplant, meat sauce, and béchamel in a baking dish.",
+            "Bake at 180°C (350°F) for 45 minutes, garnish with cheese."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 420,
+        "protein": 22,
+        "carbs": 25,
+        "fat": 25
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Banh Mi",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_mini_banh_mi_Vietnamese_sandwiches.jpg?width=700",
+      "country": "Vietnam",
+      "flag": "🇻🇳",
+      "category": "Fast food",
+      "description": "Frantsuz bagetiga go'sht va marinadlangan sabzavotlar solingan vyetnam sendvichi.",
+      "videoUrl": "https://www.youtube.com/watch?v=Dz9r3vNRxPA",
+      "ingredients": [
+        {
+          "name": "Baget non",
+          "amount": "2 dona",
+          "grams": 300
+        },
+        {
+          "name": "Cho'chqa go'shti",
+          "amount": "300 g",
+          "grams": 300
+        },
+        {
+          "name": "Sabzi",
+          "amount": "1 dona",
+          "grams": 80
+        },
+        {
+          "name": "Turp",
+          "amount": "1 dona",
+          "grams": 100
+        },
+        {
+          "name": "Bodring",
+          "amount": "1 dona",
+          "grams": 200
+        },
+        {
+          "name": "Koriandr",
+          "amount": "1 bog'",
+          "grams": 20
+        },
+        {
+          "name": "Soya sousi",
+          "amount": "2 osh qoshiq",
+          "grams": 30
+        },
+        {
+          "name": "Achchiq qalampir",
+          "amount": "ta'mga qarab",
+          "grams": 10
+        }
+      ],
+      "instructions": [
+        "Sabzi va turpni ingichka to'g'rab, sirka va shakarda marinadlang.",
+        "Go'shtni soya sousida marinadlab qovuring.",
+        "Bagetni ochib, ichiga mayonez surting.",
+        "Go'sht, marinadlangan sabzavot, bodring va koriandrni joylashtiring.",
+        "Achchiq qalampir bilan bezab xizmat qiling."
+      ],
+      "cookingTime": "40 daqiqa",
+      "servings": 2,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Бань-ми",
+          "category": "Фастфуд",
+          "description": "Вьетнамский сэндвич во французском багете с мясом и маринованными овощами.",
+          "ingredients": [
+            {
+              "name": "Багет",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Свинина",
+              "amount": "300 г"
+            },
+            {
+              "name": "Морковь",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Дайкон",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Огурец",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Кинза",
+              "amount": "1 пучок"
+            },
+            {
+              "name": "Соевый соус",
+              "amount": "2 ст. л."
+            },
+            {
+              "name": "Острый перец",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Нарежьте морковь и дайкон соломкой, замаринуйте в уксусе и сахаре.",
+            "Замаринуйте мясо в соевом соусе и обжарьте.",
+            "Разрежьте багет и смажьте майонезом внутри.",
+            "Выложите мясо, маринованные овощи, огурец и кинзу.",
+            "Украсьте острым перцем и подавайте."
+          ]
+        },
+        "en": {
+          "title": "Banh Mi",
+          "category": "Fast food",
+          "description": "A Vietnamese sandwich in a French baguette filled with meat and pickled vegetables.",
+          "ingredients": [
+            {
+              "name": "Baguette",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Pork",
+              "amount": "300 g"
+            },
+            {
+              "name": "Carrot",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Daikon radish",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Cucumber",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Cilantro",
+              "amount": "1 bunch"
+            },
+            {
+              "name": "Soy sauce",
+              "amount": "2 tbsp"
+            },
+            {
+              "name": "Chili pepper",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Julienne the carrot and daikon, then pickle them in vinegar and sugar.",
+            "Marinate the pork in soy sauce and fry it.",
+            "Slice open the baguette and spread mayonnaise inside.",
+            "Layer in the meat, pickled vegetables, cucumber, and cilantro.",
+            "Garnish with chili pepper and serve."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 450,
+        "protein": 22,
+        "carbs": 50,
+        "fat": 16
+      },
+      "dietTags": []
+    },
+    {
+      "id": 36,
+      "title": "Xinkali",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khinkali%2C_Restaurant_Aragvi.jpg?width=700",
+      "country": "Georgia",
+      "flag": "🇬🇪",
+      "category": "Fast food",
+      "description": "Ichiga qiyma va sharbat solingan, qo'lda burma qilib yopiladigan gruzin pelmenlari.",
+      "videoUrl": "https://www.youtube.com/watch?v=uJAm8zhn77Y",
+      "ingredients": [
+        {
+          "name": "Xamir",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Mol qiymasi",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Zira",
+          "amount": "1 choy qoshiq",
+          "grams": 3
+        },
+        {
+          "name": "Suv (sharbat uchun)",
+          "amount": "150 ml",
+          "grams": 150
+        },
+        {
+          "name": "Qora qalampir",
+          "amount": "ta'mga qarab",
+          "grams": 2
+        }
+      ],
+      "instructions": [
+        "Qiyma, piyoz, zira va suvni yaxshilab aralashtiring (sharbatli ichlik uchun).",
+        "Xamirdan doiralar kesib, ichiga ichlikni soling.",
+        "Chetlarini burma qilib yig'ib, tugun hosil qiling.",
+        "Qaynayotgan tuzlangan suvda 10-12 daqiqa qaynating.",
+        "Ko'p qora qalampir sepib, dumaloq qismidan tutib yeng."
+      ],
+      "cookingTime": "60 daqiqa",
+      "servings": 5,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Хинкали",
+          "category": "Фастфуд",
+          "description": "Грузинские пельмени с сочной мясной начинкой, защипанные вручную сверху.",
+          "ingredients": [
+            {
+              "name": "Тесто",
+              "amount": "500 г"
+            },
+            {
+              "name": "Говяжий фарш",
+              "amount": "400 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Зира",
+              "amount": "1 ч. л."
+            },
+            {
+              "name": "Вода (для сочности)",
+              "amount": "150 мл"
+            },
+            {
+              "name": "Чёрный перец",
+              "amount": "по вкусу"
+            }
+          ],
+          "instructions": [
+            "Хорошо смешайте фарш, лук, зиру и воду (для сочной начинки).",
+            "Вырежьте кружки из теста и положите начинку в центр.",
+            "Защипните края наверху, формируя узелок.",
+            "Варите в кипящей подсоленной воде 10-12 минут.",
+            "Посыпьте чёрным перцем и ешьте, держа за узелок."
+          ]
+        },
+        "en": {
+          "title": "Khinkali",
+          "category": "Fast food",
+          "description": "Georgian dumplings with a juicy meat filling, pleated by hand at the top.",
+          "ingredients": [
+            {
+              "name": "Dough",
+              "amount": "500 g"
+            },
+            {
+              "name": "Ground beef",
+              "amount": "400 g"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Cumin",
+              "amount": "1 tsp"
+            },
+            {
+              "name": "Water (for juiciness)",
+              "amount": "150 ml"
+            },
+            {
+              "name": "Black pepper",
+              "amount": "to taste"
+            }
+          ],
+          "instructions": [
+            "Mix the ground meat, onion, cumin, and water well (for a juicy filling).",
+            "Cut circles from the dough and place the filling in the center.",
+            "Pleat the edges together at the top to form a knot.",
+            "Boil in salted boiling water for 10-12 minutes.",
+            "Sprinkle with black pepper and eat holding the knot."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 380,
+        "protein": 20,
+        "carbs": 40,
+        "fat": 15
+      },
+      "dietTags": [
+        "halal"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Xummus",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hummus.jpg?width=700",
+      "country": "Lebanon",
+      "flag": "🇱🇧",
+      "category": "Salat",
+      "description": "No'xat, tahin va limondan tayyorlanadigan mayin livan sousi.",
+      "videoUrl": "https://www.youtube.com/watch?v=WZtO06akLmc",
+      "ingredients": [
+        {
+          "name": "No'xat (qaynatilgan)",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Tahin (kunjut pastasi)",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Limon sharbati",
+          "amount": "3 osh qoshiq",
+          "grams": 45
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "2 bo'lak",
+          "grams": 10
+        },
+        {
+          "name": "Zaytun yog'i",
+          "amount": "3 osh qoshiq",
+          "grams": 42
+        },
+        {
+          "name": "Zira",
+          "amount": "0.5 choy qoshiq",
+          "grams": 1.5
+        }
+      ],
+      "instructions": [
+        "No'xatni tahin, limon sharbati va sarimsoq bilan blenderda maydalang.",
+        "Kerak bo'lsa suv qo'shib, yumshoq masalliqqa aylantiring.",
+        "Zira va tuz bilan ta'mini sozlang.",
+        "Likobga solib, ustidan zaytun yog'i quying.",
+        "Non yoki sabzavotlar bilan xizmat qiling."
+      ],
+      "cookingTime": "20 daqiqa",
+      "servings": 4,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Хумус",
+          "category": "Салат",
+          "description": "Нежная ливанская паста из нута, тахини и лимона.",
+          "ingredients": [
+            {
+              "name": "Нут (варёный)",
+              "amount": "400 г"
+            },
+            {
+              "name": "Тахини (кунжутная паста)",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Сок лимона",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Чеснок",
+              "amount": "2 зубчика"
+            },
+            {
+              "name": "Оливковое масло",
+              "amount": "3 ст. л."
+            },
+            {
+              "name": "Зира",
+              "amount": "0.5 ч. л."
+            }
+          ],
+          "instructions": [
+            "Измельчите нут с тахини, лимонным соком и чесноком в блендере.",
+            "При необходимости добавьте воды до нужной консистенции.",
+            "Приправьте зирой и солью по вкусу.",
+            "Выложите в тарелку и полейте оливковым маслом.",
+            "Подавайте с хлебом или овощами."
+          ]
+        },
+        "en": {
+          "title": "Hummus",
+          "category": "Salad",
+          "description": "A smooth Lebanese dip made from chickpeas, tahini, and lemon.",
+          "ingredients": [
+            {
+              "name": "Chickpeas (cooked)",
+              "amount": "400 g"
+            },
+            {
+              "name": "Tahini (sesame paste)",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Lemon juice",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Garlic",
+              "amount": "2 cloves"
+            },
+            {
+              "name": "Olive oil",
+              "amount": "3 tbsp"
+            },
+            {
+              "name": "Cumin",
+              "amount": "0.5 tsp"
+            }
+          ],
+          "instructions": [
+            "Blend the chickpeas with tahini, lemon juice, and garlic.",
+            "Add water if needed to reach a smooth consistency.",
+            "Season with cumin and salt to taste.",
+            "Spoon into a bowl and drizzle with olive oil.",
+            "Serve with bread or vegetables."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 180,
+        "protein": 8,
+        "carbs": 18,
+        "fat": 9
+      },
+      "dietTags": [
+        "vegetarian",
+        "vegan",
+        "glutenFree",
+        "halal"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Bratvurst",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bratwurst.jpg?width=700",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "category": "Fast food",
+      "description": "Grillda pishiriladigan nemis kolbasasi, gorchitsa va karam bilan xizmat qilinadi.",
+      "videoUrl": "https://www.youtube.com/watch?v=0f3vtcyOPZE",
+      "ingredients": [
+        {
+          "name": "Nemis kolbasasi (bratvurst)",
+          "amount": "6 dona",
+          "grams": 600
+        },
+        {
+          "name": "Bulochka",
+          "amount": "6 dona",
+          "grams": 360
+        },
+        {
+          "name": "Karam turshisi (sauerkraut)",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Gorchitsa",
+          "amount": "xizmat uchun",
+          "grams": 20
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        }
+      ],
+      "instructions": [
+        "Kolbasalarni grill yoki skovorodada 10-12 daqiqa qovuring.",
+        "Piyozni oltin rangga qadar qovuring.",
+        "Bulochkani ochib, ichiga kolbasa joylang.",
+        "Karam turshisi va qovurilgan piyoz bilan bezating.",
+        "Gorchitsa bilan xizmat qiling."
+      ],
+      "cookingTime": "25 daqiqa",
+      "servings": 6,
+      "difficulty": "Oson",
+      "i18n": {
+        "ru": {
+          "title": "Братвурст",
+          "category": "Фастфуд",
+          "description": "Немецкая жареная колбаска на гриле, подаётся с горчицей и капустой.",
+          "ingredients": [
+            {
+              "name": "Немецкие колбаски (братвурст)",
+              "amount": "6 шт"
+            },
+            {
+              "name": "Булочки",
+              "amount": "6 шт"
+            },
+            {
+              "name": "Квашеная капуста",
+              "amount": "200 г"
+            },
+            {
+              "name": "Горчица",
+              "amount": "для подачи"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            }
+          ],
+          "instructions": [
+            "Обжарьте колбаски на гриле или сковороде 10-12 минут.",
+            "Обжарьте лук до золотистого цвета.",
+            "Разрежьте булочку и положите внутрь колбаску.",
+            "Украсьте квашеной капустой и жареным луком.",
+            "Подавайте с горчицей."
+          ]
+        },
+        "en": {
+          "title": "Bratwurst",
+          "category": "Fast food",
+          "description": "A grilled German sausage, served with mustard and sauerkraut.",
+          "ingredients": [
+            {
+              "name": "German bratwurst sausages",
+              "amount": "6 pcs"
+            },
+            {
+              "name": "Buns",
+              "amount": "6 pcs"
+            },
+            {
+              "name": "Sauerkraut",
+              "amount": "200 g"
+            },
+            {
+              "name": "Mustard",
+              "amount": "for serving"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            }
+          ],
+          "instructions": [
+            "Grill or pan-fry the sausages for 10-12 minutes.",
+            "Fry the onion until golden.",
+            "Slice open the bun and place the sausage inside.",
+            "Top with sauerkraut and fried onion.",
+            "Serve with mustard."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 420,
+        "protein": 20,
+        "carbs": 25,
+        "fat": 26
+      },
+      "dietTags": []
+    },
+    {
+      "id": 39,
+      "title": "Pelmeni",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pelmeni_Russian.jpg?width=700",
+      "country": "Russia",
+      "flag": "🇷🇺",
+      "category": "Asosiy taom",
+      "description": "Ichiga qiyma solingan, qaynatib tayyorlanadigan an'anaviy rus pelmenlari.",
+      "videoUrl": "https://www.youtube.com/watch?v=SSb2IdAOx78",
+      "ingredients": [
+        {
+          "name": "Un",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Tuxum",
+          "amount": "1 dona",
+          "grams": 50
+        },
+        {
+          "name": "Suv",
+          "amount": "200 ml",
+          "grams": 200
+        },
+        {
+          "name": "Mol va cho'chqa qiymasi",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Qaymoq",
+          "amount": "xizmat uchun",
+          "grams": 30
+        }
+      ],
+      "instructions": [
+        "Un, tuxum va suvdan qattiqroq xamir tayyorlang.",
+        "Qiyma va mayda to'g'ralgan piyozni tuz-qalampir bilan aralashtiring.",
+        "Xamirni yupqa yoyib, doiralar kesing va ichiga qiyma soling.",
+        "Chetlarini yopib, yarim oy shaklida buklang.",
+        "Qaynagan suvda 7-8 daqiqa qaynatib, qaymoq bilan xizmat qiling."
+      ],
+      "cookingTime": "70 daqiqa",
+      "servings": 6,
+      "difficulty": "O'rta",
+      "i18n": {
+        "ru": {
+          "title": "Пельмени",
+          "category": "Основное блюдо",
+          "description": "Традиционные русские пельмени с мясной начинкой, отвариваемые в воде.",
+          "ingredients": [
+            {
+              "name": "Мука",
+              "amount": "500 г"
+            },
+            {
+              "name": "Яйцо",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Вода",
+              "amount": "200 мл"
+            },
+            {
+              "name": "Говяжий и свиной фарш",
+              "amount": "400 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Сметана",
+              "amount": "для подачи"
+            }
+          ],
+          "instructions": [
+            "Замесите крутое тесто из муки, яйца и воды.",
+            "Смешайте фарш и мелко нарезанный лук с солью и перцем.",
+            "Раскатайте тесто тонко, вырежьте кружки и положите начинку.",
+            "Защипните края, сложив в форме полумесяца.",
+            "Отварите в кипящей воде 7-8 минут, подавайте со сметаной."
+          ]
+        },
+        "en": {
+          "title": "Pelmeni",
+          "category": "Main course",
+          "description": "Traditional Russian dumplings with a meat filling, boiled in water.",
+          "ingredients": [
+            {
+              "name": "Flour",
+              "amount": "500 g"
+            },
+            {
+              "name": "Egg",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Water",
+              "amount": "200 ml"
+            },
+            {
+              "name": "Beef and pork mince",
+              "amount": "400 g"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Sour cream",
+              "amount": "for serving"
+            }
+          ],
+          "instructions": [
+            "Make a firm dough from flour, egg, and water.",
+            "Mix the ground meat and finely chopped onion with salt and pepper.",
+            "Roll the dough thin, cut circles, and add the filling.",
+            "Pinch the edges closed, folding into a crescent shape.",
+            "Boil in boiling water for 7-8 minutes, serve with sour cream."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 420,
+        "protein": 20,
+        "carbs": 45,
+        "fat": 16
+      },
+      "dietTags": []
+    },
+    {
+      "id": 40,
+      "title": "Feyjoada",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Feijoada.JPG?width=700",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "category": "Asosiy taom",
+      "description": "Qora loviya va turli go'sht mahsulotlari bilan tayyorlanadigan Braziliyaning milliy taomi.",
+      "videoUrl": "https://www.youtube.com/watch?v=h8zlfRdMnK0",
+      "ingredients": [
+        {
+          "name": "Qora loviya",
+          "amount": "500 g",
+          "grams": 500
+        },
+        {
+          "name": "Cho'chqa go'shti (turli qismlar)",
+          "amount": "400 g",
+          "grams": 400
+        },
+        {
+          "name": "Kolbasa",
+          "amount": "200 g",
+          "grams": 200
+        },
+        {
+          "name": "Piyoz",
+          "amount": "1 dona",
+          "grams": 150
+        },
+        {
+          "name": "Sarimsoq",
+          "amount": "3 bo'lak",
+          "grams": 15
+        },
+        {
+          "name": "Dafna bargi",
+          "amount": "2 dona",
+          "grams": 1
+        },
+        {
+          "name": "Apelsin",
+          "amount": "xizmat uchun",
+          "grams": 100
+        }
+      ],
+      "instructions": [
+        "Loviyani kechasi suvga bo'ktirib qo'ying.",
+        "Go'sht va kolbasani piyoz-sarimsoq bilan qovuring.",
+        "Loviya, dafna bargi va suv qo'shib, 2 soat qaynating.",
+        "Go'shtlarni qo'shib, yana 30 daqiqa qayting.",
+        "Guruch va apelsin bo'laklari bilan xizmat qiling."
+      ],
+      "cookingTime": "180 daqiqa",
+      "servings": 6,
+      "difficulty": "Qiyin",
+      "i18n": {
+        "ru": {
+          "title": "Фейжоада",
+          "category": "Основное блюдо",
+          "description": "Национальное блюдо Бразилии из чёрной фасоли и разных видов мяса.",
+          "ingredients": [
+            {
+              "name": "Чёрная фасоль",
+              "amount": "500 г"
+            },
+            {
+              "name": "Свинина (разные части)",
+              "amount": "400 г"
+            },
+            {
+              "name": "Колбаса",
+              "amount": "200 г"
+            },
+            {
+              "name": "Лук",
+              "amount": "1 шт"
+            },
+            {
+              "name": "Чеснок",
+              "amount": "3 зубчика"
+            },
+            {
+              "name": "Лавровый лист",
+              "amount": "2 шт"
+            },
+            {
+              "name": "Апельсин",
+              "amount": "для подачи"
+            }
+          ],
+          "instructions": [
+            "Замочите фасоль в воде на ночь.",
+            "Обжарьте мясо и колбасу с луком и чесноком.",
+            "Добавьте фасоль, лавровый лист и воду, варите 2 часа.",
+            "Добавьте мясо и варите ещё 30 минут.",
+            "Подавайте с рисом и дольками апельсина."
+          ]
+        },
+        "en": {
+          "title": "Feijoada",
+          "category": "Main course",
+          "description": "Brazil's national dish made with black beans and various cuts of meat.",
+          "ingredients": [
+            {
+              "name": "Black beans",
+              "amount": "500 g"
+            },
+            {
+              "name": "Pork (various cuts)",
+              "amount": "400 g"
+            },
+            {
+              "name": "Sausage",
+              "amount": "200 g"
+            },
+            {
+              "name": "Onion",
+              "amount": "1 pc"
+            },
+            {
+              "name": "Garlic",
+              "amount": "3 cloves"
+            },
+            {
+              "name": "Bay leaves",
+              "amount": "2 pcs"
+            },
+            {
+              "name": "Orange",
+              "amount": "for serving"
+            }
+          ],
+          "instructions": [
+            "Soak the beans in water overnight.",
+            "Fry the meat and sausage with onion and garlic.",
+            "Add the beans, bay leaves, and water, and simmer for 2 hours.",
+            "Add the meats and simmer for another 30 minutes.",
+            "Serve with rice and orange wedges."
+          ]
+        }
+      },
+      "nutrition": {
+        "calories": 520,
+        "protein": 35,
+        "carbs": 35,
+        "fat": 24
+      },
+      "dietTags": [
+        "glutenFree"
+      ]
+    }
+  ]
+}
